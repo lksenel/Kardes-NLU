@@ -1,0 +1,501 @@
+﻿,id,asks-for,most-plausible-alternative,p,a1,a2,p_translation,a1_translation,a2_translation
+0,501,cause,1,The item was packaged in bubble wrap.,It was fragile.,It was small.,Бу нәрсә көпүкчә орашқа оралған иди.,У назук иди.,У кичик иди.
+1,502,effect,1,I emptied my pockets.,I retrieved a ticket stub.,I found a weapon.,Мәе янчуқумни бошаттим.,Мән беләт көтәкини чиқардим.,Мән қорал таптим.
+2,503,effect,2,Termites invaded the house.,The termites disappeared from the house.,The termites ate through the wood in the house.,Ақ чүмүлилар өйгә бесип кирди.,Ақ чүмүлилар өйдин ғайиб болди.,Ақ чүмүлилар өйдики яғачтин йеди.
+3,504,effect,1,The travelers reached the border.,The patrol agent checked their passports.,The patrol agent accused them of smuggling.,Саяһәтчиләр чеграға йетип барди.,Чарлаш вакаләтчиси уларниң паспортлирини тәкшүрди.,Чарлаш вакаләтчиси уларни әткәсчилик билән әйиблигән.
+4,505,cause,1,The office was closed.,It was a holiday.,It was summer.,Ишхана тақалған иди.,Бу дәм елиш күни иди.,яз пәсли иди.
+5,506,cause,2,The girl ran out of energy.,She played checkers.,She jumped rope.,Қизниң күчи түгиди.,У дамка ойниди.,У арғамчидин сәкриди.
+6,507,cause,2,The woman lost her place in line.,More people entered the line.,She stepped out of the line.,Бу аял өчрәттики орнидин айрилди.,Техиму көп кишиләр бу өчрәтқа кирди.,У өчрәттин чиқип кәтти.
+7,508,cause,2,The girl pinched her nose.,The baby drooled on her bib.,The baby soiled her diaper.,Қиз бурнини қисип қойди.,Бовақ өзиниң  яқилиқигә шөлгәй аққизди.,Бовақ өзиниң  сүйдүк латисини мәйнәт қилди.
+8,509,effect,1,The band played their hit song.,The audience clapped along to the music.,The audience politely listened in silence.,Ансамбил уларниң даңлиқ нахшисини орундиди.,Тамашибинлар музикиға чавак чалди.,Тамашибинлар әдәп билән җимҗит аңлиди.
+9,510,effect,2,The girl wanted to thank her math teacher.,The girl stayed after school for detention.,The girl brought the teacher an apple.,Қиз математика оқутқучисиға рәһмәт ейтмақчи болди.,Бу қиз мәктәптин кейин тутуп турулған.,Қиз оқутқучиға бир алма елип кәлди.
+10,511,cause,1,The young campers felt scared.,Their camp counselor told them a ghost story.,They toasted marshmallows on the campfire.,Яш лагердикиләр қорқуп кәтти.,Уларниң лагер мәслиһәтчиси уларға әрваһ һекайисини сөзләп бәрди.,Улар сазлиқни отта көйдүрди.
+11,512,effect,2,The man hit his head.,He got lost in thought.,He got a concussion.,У киши өзиниң бешини урди.,У хиялға петип қалди.,Униң меңә силкинди.
+12,513,cause,1,The check I wrote bounced.,My bank account was empty.,I earned a pay raise.,Мән язған чәк қайтурулди.,Мениң банка һесабатим қуруқ иди.,Мән мааш өстүрдүм.
+13,514,effect,1,The man's email inbox was full of spam.,He deleted the spam.,He sent out a mass email.,Бу әрниң електронлуқ хәт сандуқи әхләт хәтләр билән толған иди.,У әхләт хәтни өчүрди.,У аммиви електронлуқ хәт әвәтти.
+14,515,cause,1,The sailor was quarantined.,He was exposed to the disease.,He recovered from the disease.,Матрос карантин қилинди.,У бу кесәлгә гириптар болған.,У кесәлдин сақайди.
+15,516,cause,1,The girl memorized the code.,She recited it to herself.,She forgot to write it down.,Қиз бу кодни ядлиди.,У уни өзигә оқуди.,У йезишни унтуп қалди.
+16,517,effect,2,I poured the water into the glass.,The water quenched my thirst.,The glass became full.,Мән бир истаканға су қуйдум.,Су уссузлуқимни қандурди.,Истакан толди.
+17,518,cause,2,The man remained silent when his friend finishing speaking.,He wanted to offer his friend support.,He was thinking about his friend's words.,Дости сөзләшни түгәткәндә бу әр сүкүттә турған.,У достиға ярдәм қилмақчи болған.,У достиниң гепини ойлавататти.
+18,519,effect,1,The accident was my fault.,I felt guilty.,I pressed charges.,һадисә мениң хаталиқим иди.,Өзүмни гунаһкардәк һес қилдим.,Мән әйиблидим.
+19,520,cause,2,The chain came apart.,The chain was wrapped around a tire.,There was a broken link in the chain.,Зәнҗир парчилинип кәтти.,Зәнҗир балонға оралған иди.,Зәнҗирдә бузулған улиниш бар иди.
+20,521,cause,1,The couple decided to compromise.,They grew tired of arguing.,They avoided discussing the problem.,Бу бир җүпләр мурәссә қилишни қарар қилған.,Улар талаш-тартиштин зерикип кәтти.,Улар мәсилини музакирә қилиштин өзини қачурди.
+21,522,effect,1,The woman decided to run for public office.,She hired a campaign manager.,She testified in court.,Бу аял аммиви хизмәткә қатнишишни қарар қилди.,У тәшвиқат дерикторини тәклип қилди.,У сотта гуваһлиқ бәрди.
+22,523,effect,1,The man anticipated cold weather on his trip.,He packed warm clothing in his suitcase.,He travelled with a big suitcase.,Бу киши сәпиридә соғуқ һаварайини алдин пәрәз қилди.,У чамаданға иссиқ кийимләрни салди.,У чоң чамадан билән саяһәт қилди.
+23,524,effect,1,The student knew the answer to the question.,He raised his hand.,He goofed off.,Бу соалниң җавабини оқуғучи биләтти.,У қолини көтүрди.,У  әхмәқлиқ қилди.
+24,525,cause,1,The man's eyes watered.,Dust got into his eyes.,He put goggles over his eyes.,У кишиниң көзлири яшланди.,Чаң-тозанлар униң көзигә чүшти.,У көзлиригә көзәйнәк тақиди.
+25,526,effect,1,The player won five games in a row.,Her opponent accused her of cheating.,Her opponent felt sorry for her.,Бу топчи уда бәш мәйдан ғәлибә қилди.,Униң рәқиби уни алдамчилиқ билән әйиблиди.,Униң рәқиби униңға ич ағритти.
+26,527,cause,1,The teacher tore up the student's exam.,He caught the student cheating.,The student's answers were incorrect.,Оқутқучи оқуғучиларниң имтиһанини йиртивәтти.,У оқуғучиниң алдамчилиқини тутти.,Оқуғучиниң җаваблири тоғра әмәс иди.
+27,528,cause,2,I paused to stop talking.,I lost my voice.,I ran out of breath.,Мән тохтап сөзләшни тохтаттим.,Мән авазимни йоқитип қойдум.,Мәниң нәпсим тутувалди.
+28,529,cause,1,The frozen food thawed.,I put it in the microwave.,I covered it with plastic wrap.,Тоңлитилған йемәкликләр ерип кәтти.,Мән уни микро долқунлуқ очаққа салдим.,Мән уни суляв йопуқ билән яптим.
+29,530,cause,2,The employee faked sick.,He had stomach cramps.,He wanted a day off.,Хизмәтчи кесәл болуп қалғандәк қилатти.,Униң ашқазини ағриди.,У бир күн дәм елишни ойлиди.
+30,531,cause,2,The girl landed in the pool.,She ran on the pool deck.,She jumped off the diving board.,Қиз көлчәккә чүшүп кәтти.,У көлчәк бойидики пәләмпәйдин йүгүрди.,У суға сәкрәш тахтисидин сәкриди.
+31,532,cause,1,The movie tickets sold out.,It was opening day for the movie.,The movie received poor reviews.,Кино белити сетилип болди.,Бу филимниң ечилиш күни иди.,Бу кино начар баһаларға еришти.
+32,533,effect,2,The man lost weight.,People isolated him.,People complimented him.,Бу әр оруқлиди.,Кишиләр уни айривәтти.,Кишиләр уни махтиди.
+33,534,cause,2,The girl's hands became blistered.,She typed up a letter.,She climbed up a rope.,Қизниң қоллири қизирип кәтти.,У бир парчә хәт язди.,У арғамчиға чиқти.
+34,535,effect,1,The circus performer juggled while riding a unicycle.,The audience cheered in astonishment.,The acrobat swung from a trapeze.,Серк өмики бир чақилиқ велисипит минип кетиватқанда чақчақ қилатти.,Тамашибинлар һәйранлиқ ичидә алқиш яңратти.,Акробат иләңгүчдин сәкриди.
+35,536,cause,1,I lost my patience.,My friend kept me waiting.,My friend arrived on time.,Сәврчанлиқимни йоқаттим.,Достум мени сақлап туратти.,Достум дәл вақтида кәлди.
+36,537,effect,2,The warring countries wanted peace.,They developed nuclear weapons.,They negotiated a treaty.,Урушуватқан дөләтләр тинчлиқни халайду.,Улар ядро қораллирини ясап чиқти.,Улар келишим түзди.
+37,538,effect,1,The man took sleeping medication.,He became drowsy.,He ran a fever.,Бу әр ухлаш дориси ичкән.,У уйқуға кәтти.,У қизип кәтти.
+38,539,effect,2,The woman bumped into the sofa.,The leg of the sofa came loose.,She bruised her knee.,Аял сафаға соқулди.,Сафаниң пути бошап кәтти.,У тизини яриландурди.
+39,540,effect,1,The boy squeezed the balloon.,The balloon popped.,The balloon flew away.,Бала шарни қисип қойди.,Шар йерилип кәтти.,Шар учуп кәтти.
+40,541,effect,1,They travelers checked into their hotel room.,They unpacked their suitcases.,They went to the airport.,Cаяһәтчиләр өзлириниң меһманханисиға кирди.,Улар чамаданлирини йешивәтти.,Улар айродромға барди.
+41,542,effect,2,I bit into the peach.,The peach bruised.,Juice spilled out.,Мән шаптулини чишлидим.,Шаптул көкирип кәтти.,Шәрбәт төкүлүп кәтти.
+42,543,cause,1,My hands became sticky.,I ate a doughnut.,I had a sweet tooth.,Қоллирим чаплишип қалди.,Мән бир донат йедим.,Мениң татлиқ чишим бар иди.
+43,544,effect,1,I pushed the door.,The door opened.,The door locked.,Мән ишикни иттирдим.,Ишик ечилди.,Ишик қулупланди.
+44,545,cause,2,Activists boycotted the products.,The products were tested for quality assurance.,The products were manufactured through child labor.,Паалийәтчиләр мәһсулатларни байқут қилди.,Мәһсулатлар сүпәткә капаләтлик қилиш үчүн синақ қилинди.,Бу мәһсулатлар балилар әмгики арқилиқ ишләпчиқирилди.
+45,546,effect,2,I drilled a hole in the wall.,A mouse crawled out of the hole.,Dust blew out of the hole.,Мән тамға төшүк ачтим.,Мир чашқан төшүктин өмиләп чиқип кәтти.,Төшүктин топа чиқип кәтти.
+46,547,cause,1,The woman felt envious of her sister.,Her sister was happy.,Her sister got divorced.,Бу аял сиңлисиға һәвәс қилатти.,Сиңлиси хушал иди.,Сиңлиси аҗришип кәтти.
+47,548,effect,2,I spilled wine on my shirt.,I put on an apron.,I changed my shirt.,Мән көңлүмгә үзүм һариқини төктим.,Мән бир пәртуқ кийивалдим.,Мән көңлүмни алмаштурдум.
+48,549,cause,2,The cashier opened the cash register.,The customer searched his wallet.,The customer handed her money.,Кассир пул елиш машинисини ачти.,Херидар һәмянни ахтурди.,Херидар униңға пулни бәрди.
+49,550,effect,1,The street musician attracted a crowd.,People gave him change.,He sent the crowd away.,Коча музиканти кишиләрни җәлп қилди.,Кишиләр униңға пул бәрди.,У халайиқни узитип қойди.
+50,551,cause,1,The little boy cried to his babysitter.,He missed his parents.,It was snack time.,Кичик бала бала баққучиға йиғлап кәтти.,У ата-анисини сеғинди.,Бу ушшақ-чүшшәк йемәклик вақти иди.
+51,552,effect,1,The pilot's radar detected a storm.,The pilot navigated away from the storm.,The pilot flew through the storm.,Учқучиниң радари боранни байқиди.,Учқучи борандин йирақлап кәтти.,Учқучи борандин учуп өтти.
+52,553,effect,2,The tree shed its leaves.,The leaves turned colors.,The leaves accumulated on the ground.,Дәрәх йопурмақлирини төкти.,Йопурмақ рәңгигә боялди.,Йопурмақлар йәргә йиғилип қалди.
+53,554,effect,2,The boy was in a mischievous mood.,He decided to play a card game with his sister.,He decided to play a practical joke on his sister.,Бу бала начар кәйпиятта иди.,У сиңлиси билән биллә карта ойнашни қарар қилди.,У сиңлисиға әмәлий чақчақ қилишни қарар қилди.
+54,555,effect,2,The child complained that he had to go to the bathroom.,His father gave him a soda to drink.,His father stopped the car at a gas station.,Бала һаҗәтханиға бериши керәкликидин ағринди.,Дадиси униңға ичишкә бир сода сүйини бәрди.,Дадиси машинини май қачилаш понкитида тохтатқан.
+55,556,effect,2,The child sprinkled fish food into the tank.,The fish leapt out of the tank.,The fish swam towards the food.,Бала белиқ йемәкликлирини бакқа чечивәтти.,Белиқ бактин сәкрәп кәтти.,Белиқлар йемәкликкә қарап үзди.
+56,557,effect,1,The woman's political views changed.,She switched her party affiliation.,She engaged in a protest.,Бу аялниң сиясий көз қариши өзгәрди.,У өзиниң партийә тәвәликини алмаштурди.,У намайишқа қатнашқан.
+57,558,effect,2,The bathroom sink was clogged.,I turned on the faucet.,I poured drain cleaner into it.,Тазилиқ өйиниң чөкмиси тосулуп қалди.,Мән җүмәкни ачтим.,Мән униңға су тазилаш машинисини төктим.
+58,559,cause,1,The passengers got off the train.,The train arrived at the station.,The train blared its whistle.,Йолучилар пойиздин чүшти.,Пойиз бекәткә кәлди.,Пойиз өзиниң пуштәк авазини яңратти.
+59,560,effect,2,The man pressed down on the moist flap of the envelope.,He put a stamp on the envelope.,He sealed the envelope shut.,Бу әр конвертниң нәм йопуқини бесип қойди.,У конвертқа тамға қойди.,У конвертни тақап печәтлиди.
+60,561,cause,2,The friends lost touch.,They enjoyed each other's company.,They moved to different cities.,Достлар алақисини йоқатти.,Улар бир-бириниң һәмраһлиқидин һузурланди.,Улар охшимиған шәһәрләргә көчүп кәлди.
+61,562,effect,1,The accountant mismanaged the company's funds.,She was fired from her position.,She went on maternity leave.,Боғалтир ширкәтниң мәблиғини хата башқуруп кәлди.,У вәзиписидин елип ташланди.,У туғут дәм елишиға барди.
+62,563,cause,2,I looked at the clock.,I heard the clock tick.,I wanted to check the time.,Мән саәткә қаридим.,Мән саәтниң сайриғинини аңлидим.,Вақитни тәкшүрүп баққум кәлди.
+63,564,cause,1,My hand cramped up.,I wrote the essay by hand.,My wife and I held hands.,Қолум қистилип кәтти.,Мән мақалини қолда яздим.,Аялим иккимиз қол тутуштуқ.
+64,565,cause,2,The bolt tightened.,I replaced the bolt.,I twisted the wrench.,Болт чиңиди.,Мән болтини алмаштурдум.,Мән кулучни бурмилап қойдум.
+65,566,effect,1,The couple signed a lease for an apartment.,The couple moved into the apartment.,The city condemned the apartment.,Әр-аял бу туралғуни иҗарә бериш келишими имзалиған.,Бу бир җүп әр-аял туралғуға көчүп кирди.,Шәһәр бу туралғуни әрз қилди.
+66,567,cause,1,The woman sat outside on the porch.,She wanted to watch the sunset.,She thought she saw lightning.,Аял каридорда сиртта олтурди.,У күн петишни көргүси кәлди.,У чақмақни көрди дәп ойлиди.
+67,568,cause,1,The man wore a lifejacket in the water.,He couldn't swim.,The water was shallow.,Бу әр суға қутқузуш кийими кийгән.,У су үзәлмәйтти.,Су тейиз иди.
+68,569,effect,2,The woman made a typo in the word processor.,She deleted the document.,She hit the backspace key.,Бу аял текист тәһрирлигүчтә хаталиқ өткүзди.,У һөҗҗәтни өчүрди.,У арқа бошлуқниң ачқучини урди.
+69,570,cause,2,The girl bragged to her friends.,She got a bad grade.,She won a contest.,Қиз достлириға махтинип кәтти.,У начар дәриҗигә еришти.,У бир мусабиқидә ғәлибә қилди.
+70,571,cause,1,The lawn was muddy.,It poured overnight.,It was full of weeds.,Чимлиқ лай иди.,У бир кечидила төкүлди.,У от-чөпләр билән толғаниди.
+71,572,cause,2,The woman overslept.,She stayed the night in a hotel.,She forgot to set her alarm clock.,Аял ухлап қалди.,У бир меһманханида кечини өткүзди.,У қоңғурақлиқ саәтни тәңшәшни унтуп қалди.
+72,573,cause,2,The man put on sunscreen.,He sat in the shade.,He went to the beach.,У киши аптаптин сақлиниш мейи қойди.,У сайида олтурди.,У деңиз бойиға барди.
+73,574,effect,2,The researchers proved the theory.,The researchers retracted the theory.,Individuals accepted the theory.,Тәтқиқатчилар бу нәзәрийәни испатлиди.,Тәтқиқатчилар бу нәзәрийәдин ваз кәчти.,Шәхсләр бу нәзәрийәни қобул қилди.
+74,575,cause,2,The fans at the game booed.,The game went into overtime.,The referee made a bad call.,Оюндики топ мәстанилири қизғин алқиш яңратти.,Оюн исмена қошуп ишләшкә кәтти.,Репир хата таллиди
+75,576,effect,2,I entered my combination on the lock.,I shut the lock.,The lock popped open.,Мән кодни қулупқа киргүздүм.,Мән қулупни тақидим.,Қулуп ечилди.
+76,577,effect,2,The crowd intensified.,The father handed his son some money.,The father grabbed his son's hand.,Амма техиму күчәйди.,Дадиси оғлиға азрақ пул бәрди.,Дадиси оғлиниң қолини тутти.
+77,578,effect,2,The snow was blocking the driveway.,I gathered the snow into a snowball.,I shoveled the snow out of the way.,Қар машина йолини тосувататти.,Мән қарни қар топиға топлидим.,Мән қарни йолдин ивәттим.
+78,579,effect,1,The kayakers paddled their oars.,The kayak reached the shore.,The kayak hit a wave.,Қейиқ һәйдигүчилири палақләрни су кәчти,Қейиқ қирғаққа йетип барди.,Қейиқ долқун урди.
+79,580,effect,2,The girl lost control of her bike.,She let go of the handlebars.,She crashed into a fence.,Қиз велисипитни контрол қилалмиди.,У тутқучни қоюп бәрди.,У ришаткиға соқулуп кәтти.
+80,581,effect,2,I turned on the fan.,Water sprinkled onto my skin.,I felt cool air pass over me.,Мән шамалдурғучни яндурдум.,Теримгә су чечип кәтти.,Салқин һаваниң үстүмдин өткәнликини һес қилдим.
+81,582,cause,2,The surfers returned to the beach.,They were drenched.,They saw a shark.,Долқун тейилғучилар деңиз саһилиға қайтип кәлди.,Улар суға чөмди.,Улар ләһәңни көрди.
+82,583,effect,1,I pulled the drain plug in the bathtub.,The water drained out of the tub.,The water splashed onto the floor.,Ваннида су чиқириш допписини тарттим.,Ваннидин су чиқип кәтти.,Су йәргә чечилип кәтти.
+83,584,effect,2,The husband felt guilty about cheating on his wife.,He accused her of infidelity.,He confessed his infidelity to her.,Ери аялини алдашта гунаһкардәк һес қилди.,У уни вапасизлиқ билән әйиблиди.,У униңға вапасизлиқини иқрар қилди.
+84,585,cause,2,The ink on the poster smeared.,I waited for the ink to dry.,I spilled water on the poster.,Еландики сияһ сүркилип кәтти.,Мән сияһниң қуруп кетишини сақлидим.,Мән пилакатқа су төктим.
+85,586,cause,1,The child woke up screaming.,He had a nightmare.,He wet the bed.,Бала варқирап ойғинип кәтти.,У бир начар чүш көрди.,У кариватни һөл қилди.
+86,587,effect,2,The boy put his feet up on the table.,His father sat down at the table.,His father lectured him.,Бала путини үстәлгә қойди.,Дадиси үстәлдә олтурди.,Дадиси униңға дәрс сөзлиди.
+87,588,cause,1,My friend turned his head in my direction.,I shouted his name.,I waved my arms.,Достум бешини мениң йөнилишимгә бурди.,Мән униң исмини товлидим.,Мән қоллиримни пулаңлаттим.
+88,589,effect,1,The government oppressed its citizens.,The citizens staged a revolt.,The citizens registered to vote.,һөкүмәт пуқраларға зулум қилди.,Пуқралар қозғилаң көтүрди.,Пуқралар беләт ташлашқа тизимлатти.
+89,590,effect,2,The boy was lost in the woods.,He pitched a tent.,He screamed for help.,Бала орманлиқта йоқап кәтти.,У бир чедир қурди.,У ярдәмгә чақирди.
+90,591,cause,2,The woman travelled abroad.,She wanted to learn how to draw.,She wanted to learn about other cultures.,Бу аял чәтәлгә саяһәткә чиққан.,У рәсим сизишни өгәнгүси кәлди.,У башқа мәдәнийәтләрни өгәнмәкчи иди.
+91,592,cause,1,The man was jealous of his coworker.,His coworker got a promotion.,His coworker worked late.,Бу әр хизмәтдишиға һәсәт қилған.,Униң хизмәтдиши өстүрүлди.,Униң хизмәтдиши кечикип ишлиди.
+92,593,cause,1,The man witnessed aliens.,He was hallucinating.,He was meditating.,У киши ташқи пиланет адәмлиригә шаһит болди.,Униңда хиялий туйғу пәйда болған иди.,У чоңқур ойлинивататти.
+93,594,cause,1,The man's hair turned blonde.,He put bleach in it.,He put shampoo in it.,Бу әрниң чечи сериқ рәңгә кирди.,У униңға ақартқуч қойди.,Униңға чач ююш суюқлуқи қойди.
+94,595,cause,2,The artist created new work.,She critiqued her previous work.,She felt a stroke of inspiration.,Сәнәткар йеңи әсәр яратти.,У илгирики әсәрини тәнқид қилди.,У илһамниң сәктини һес қилди.
+95,596,cause,2,The son moved away from home.,He was discharged from the military.,He was going to college.,Оғли өйдин йирақлап кәтти.,У һәрбийликтин бошитилди.,У алий мәктәптә оқушқа кәтиватиду.
+96,597,cause,2,Books fell out of the bookcase.,The shelves were covered with dust.,An earthquake shook the bookcase.,Китаблар китаб ишкапидин чүшүп кәтти.,Тәкчиләр топа билән қапланған иди.,Йәр тәврәш китаб ишкапини ләрзигә салди.
+97,598,effect,2,The electricity in my house shut off.,I turned on a light.,I reset the circuit breaker.,Өйүмдики ток үзүлүп қалди.,Мән чирағни яндурдум.,Ток йоли үзгүчни әслигә кәлтүримән.
+98,599,cause,2,We rode the roller coaster.,It looked scary.,It looked fun.,Биз ғалтәклик пәләмпәйгә миндуқ.,У қорқунчлуқ көрүнди.,У қизиқарлиқ көрүнди.
+99,600,cause,2,The bag of popcorn began to pop.,I poured butter into the bag.,I heated it in the microwave.,Қонақ халтиси партлашқа башлиди.,Мән халтисиға май қуйдим.,Мән уни микро долқунлуқ очақта қизиттим.
+100,601,effect,1,A tree fell on the power line.,The electricity in the neighborhood went out.,The forecast predicted heavy winds.,Ток симиға бир дәрәх чүшүп кәтти.,Әтраптики ток үзүлүп қалди.,Бу алдин берилгән мәлумат күчлүк шамалға вәдә бәрди.
+101,602,effect,2,The speaker made politically incorrect comments.,He bored the audience.,He offended the audience.,Сөзлигүчи сиясий җәһәттә хата баһа бәрди.,У тамашибинларни зериктүрди.,У тамашибинларни рәнҗитти.
+102,603,effect,2,I pricked myself with the pin.,A bead of sweat dripped from my face.,A drop of blood formed on my finger.,Мән мих билән өзүмни санҗидим.,Йүзүмдин бир мунчә тәр тамчилиди.,Бармиқимда бир тамчә қан шәкилләнди.
+103,604,cause,2,The fish floated on the surface of the tank.,It was hungry.,It was dead.,Бу белиқ бакниң йүзидә ләйләп қалди.,Униң қорсиқи ачти.,У өлган иди.
+104,605,cause,1,The man's voice sounded hoarse.,He had a cold.,He quit smoking.,У кишиниң авази җараңлиқ аңланди.,У зукам болуп қалди.,У тамака чекишни ташлиди.
+105,606,cause,1,The elevator doors opened.,The elevator arrived at the designated floor.,The elevator got stuck between floors.,Лифтниң ишиклири ечилди.,Лифит бәлгиләнгән йәргә йетип кәлди.,Лифит қәвәтләр арисида қисилип қалди.
+106,607,cause,2,The teenager snuck out of the house.,He lied to his parents.,His parents grounded him.,Өсмүр өйдин чиқип кәтти.,Ө ата-анисиға ялған ейтти.,Ата-аниси уни йәргә қойди.
+107,608,cause,1,The bathroom flooded.,The toilet overflowed.,The water heater broke.,Тазилиқ өйини су бесип кәтти.,һаҗәтхана толуп кәтти.,Су исситқуч бузулди.
+108,609,cause,2,The puppy stayed near its owner.,The owner put a collar on the puppy.,The owner kept the puppy on a leash.,Күчүк игисиниң йенида қалди.,Игиси күчүккә боюнтуруқини қойди.,Игиси күчүкни қамча қилип қойди.
+109,610,cause,2,The man caught his reflection.,He stood under the sprawling tree.,He stood over the calm lake.,Бу әр өзиниң әкис әттүрүшини тутти.,У кеңийиватқан дәрәхниң астида турди.,У тинич көлниң үстидә турупту.
+110,611,effect,1,I missed my girlfriend's phone call.,I called her back.,I met her for dinner.,Қиз достумниң телефонини сеғиндим.,Мән униңға телефон қилдим.,Мән униң билән кәчлик тамақта көрүштүм.
+111,612,cause,1,The family searched the neighborhood.,Their dog ran away from home.,Expensive jewelry was missing from their home.,Өйдикиләр әтрапни ахтурди.,Уларниң ити өйдин қечип кәтти.,Уларниң өйидин қиммәт баһалиқ зибузиннәтләр йоқап кәтти.
+112,613,cause,1,I saw my breath when I exhaled.,The weather was chilly.,My chest felt tight.,Мән нәпәс алғанда нәпсимни көрдүм.,һава соғуқ иди.,Көкриким чиңқилип кәтти.
+113,614,cause,1,The employees formed a union.,They wanted better working conditions.,Their employer raised their wages.,Хизмәтчиләр иттипақ қурди.,Улар техиму яхши хизмәт шараитини арзу қилатти.,Уларниң хоҗайини маашини өстүрди.
+114,615,effect,2,I baked an apple pie.,A rotting smell filled the kitchen.,A warm aroma filled the kitchen.,Мән алма тортини пишурдим.,Чиришниң пуриқи ашханини толдурди.,Ашханиға иллиқ пурақ толди.
+115,616,cause,1,The woman struggled to walk.,She wore high heels.,She took off her shoes.,У аял меңиш үчүн қийнилип қалди.,У егиз пашнилиқ аяғ кийим кийгән.,У аяғ кийимини селивәтти.
+116,617,cause,1,Steam rose off of the pot of water.,The water boiled.,I covered the pot.,Су қазандин пар көтүрүлди.,Су қайнап кәтти.,Мән қазанни яптим.
+117,618,effect,1,All my socks were in the laundry.,I wore sandals.,I wore boots.,Пайпақлиримниң һәммиси кийим ююш дукинида иди.,Мән сандал кийивалдим.,Мән өтүк кийдим.
+118,619,effect,1,The politician's argument was considered absurd.,He lost the support of voters.,He was accused of corruption.,Сиясионниң бу сөзи бимәнә дәп қаралди.,У сайлиғучиларниң қоллишидин айрилди.,У чириклик билән әйибләнгән.
+119,620,effect,2,Everyone disapproved of the couple's engagement.,The couple got pregnant.,The couple eloped.,һәммәйлән әр-аялниң никаһ әһдиси урушини яқтурмиди.,Әр-аял һамилидар болди.,Әр-аял қечип кәтти.
+120,621,cause,2,The building was dedicated to the millionaire.,The millionaire wanted the building torn down.,The millionaire contributed the funds to build it.,Бу бина милйонерға беғишланған иди.,Милйонер бинаниң чеқилишини үмид қилди.,Милйонер уни қурушқа мәбләғ салған.
+121,622,cause,1,The sale associate accused the girl of stealing.,The sales associate saw the girl put merchandise in her purse.,The sales associate helped the girl find the purse she liked.,Сетиш һәмраһи бу қизни оғрилиқ җинайити билән әйиблигән.,Сетиш һәмраһи бу қизниң сомкисиға тавар салғанлиқини көрди.,Сетиш һәмраһи қизға өзи яқтуридиған сомкини тепишқа ярдәм бәрди.
+122,623,effect,1,The country declared war on the neighboring territory.,Soldiers were sent out to fight.,Soldiers were reunited with their families.,Дөләт қошна районға уруш елан қилди.,Әскәрләр урушқа әвәтилди.,Әкәрләр аилисидикиләр билән җәм болди.
+123,624,effect,1,The court upheld the controversial ruling.,A riot broke loose in front of the courthouse.,A couple exchanged vows in front of the courthouse.,Сот талаш-тартиштики қарарни сақлап қалди.,Сот мәһкимиси алдида топилаң бошап кәтти.,Бир җүп әр-аял сот мәһкимиси алдида қәсәм бәрди.
+124,625,cause,2,The girl smelled something burning.,She took the cookies out of the jar.,She left the cookies in the oven.,Қиз көйгән нәрсиниң пуриқини пуриди.,У қачидин печинә-пирәникләрни алди.,У печинә-пирәникләрни очаққа қоюп қойди.
+125,626,effect,2,The rain was pouring down.,The storm worsened.,I dashed to get inside.,Ямғур яғди.,Боран техиму еғирлашти.,Мән өйгә кириш үчүн алдираш болуп кәттим.
+126,627,cause,2,The building was evacuated.,The elevator stopped functioning.,The fire alarm went off.,Бина тарқақлаштурулған иди.,Лифит ишләштин тохтиди.,Оттин агаһландуруш сигнали яндүрүлди.
+127,628,effect,2,The father resented his son's alcoholism.,The father bought his son a beer.,The father kicked his son out of the house.,Дадиси оғлиниң һарақкәшликидин рәнҗиди.,Дадиси оғлиға пива сетивалған.,Дадиси оғлини өйдин қоғлап чиқарди.
+128,629,cause,2,The lawyer took the stairs up to her office.,The secretary went home for the day.,The elevator was out of order.,Адвокат пәләмпәйдин униң ишханисиға чиқти.,Секретар өйигә кәтти пүтүн күнға.,Лифит тәртипсиз иди.
+129,630,cause,1,The man became annoyed with his friend.,His friend interrupted him.,His friend bought him lunch.,Бу әр достидин бизар болған.,Дости униң гепини үзди.,Дости униңға чүшлүк тамақ сетивалған.
+130,631,effect,1,The girl handed her money to the cashier.,The cashier gave the girl her change.,The cashier forgot to give the girl a receipt.,Қиз пулни кассирға бәрди.,Кассир қизға қайтурулидиған пулни бәрди.,Кассир қизға талон беришни унтуп қалди.
+131,632,cause,1,The woman was put in a wheelchair.,She was paralyzed in an accident.,She entered the hospital in a stretcher.,Бу аял чақлиқ орундуққа селинған иди.,У һадисидә паләч болуп қалған иди.,У дохтурханиға носилкида кириб кәлди.
+132,633,cause,1,Citizens hung the national flag up outside their homes.,The country was commemorating its independence.,The country was facing economic hardship.,Пуқралар дөләт байриқини өйиниң сиртиға есип қойди.,Бу дөләт мустәқиллиқини хатириләвататти.,Дөләт иқтисадий қийинчилиққа дуч кәвататти.
+133,634,effect,1,The team lost the tournament.,They disappointed their fans.,They inspired their fans.,Команда мусабиқидә уттуруп қойди.,Улар мәстанилирини үмидсизләндүрди.,Улар мәстанилирини илһамландурди.
+134,635,effect,1,My friend pointed out that I had food stuck in my teeth.,I felt embarrassed.,I felt proud.,Достум чишимға йемәклик чапланғанлиқини айтти.,Хиҗиллиқ һес қилдим.,Мән пәхирләндим.
+135,636,cause,2,The boy failed his history exam.,He paid attention in class.,He forgot to study.,Бу бала тарих имтиһанидин өтәлмиди.,У дәрскә әһмийәт бәрди.,У оқушни унтуп қалди.
+136,637,cause,1,The downtown building collapsed.,An earthquake hit the city.,Crime rates in the city increased.,Шәһәр мәркизи бинаси өрүлүп чүшти.,Шәһәрдә йәр тәвриди.,Шәһәрдә җинайәт өткүзүш нисбити ашти.
+137,638,effect,1,The man's girlfriend broke up with him.,He begged her to take him back.,She introduced him to her parents.,Бу әрниң қиз дости униң билән айрилип кәткән.,У уни қайтуруп беришни өтүнди.,У уни ата-анисиға тонуштурди.
+138,639,effect,2,The two children simultaneously reached down to retrieve the ball.,The ball rolled away.,Their heads collided.,Бу икки бала бирла вақитта йетип келип топни қайтурувалған.,Топ өрүлүп кәтти.,Уларниң башлири соқулуп кәтти.
+139,640,cause,2,The raccoon ransacked the garbage can.,There was cardboard in the garbage can.,The lid was off the garbage can.,Бу енот әхләт сандуқини бузуп ташлиди.,Әхләт сандуқида картон бар иди.,Қапақ әхләт сандуқиниң сиртида иди.
+140,641,cause,2,The boy sharpened the pencil.,It was cheap.,It was dull.,Бала қәләмни өткүрләштүрди.,У әрзан иди.,У тутуқ иди.
+141,642,cause,1,The cashier denied the woman a refund for the dress.,She lost her receipt.,The dress didn't fit.,Кассир аялға бу кийимни қайтурушни рәт қилди.,У талонни йоқитип қойди.,Бу кийим мас кәлмиди.
+142,643,effect,2,The scratch in my skin was deep.,It healed quickly.,It left a scar.,Теримдики дағлар чоңқур иди.,У тезла сақийип кәтти.,У җараһәт излирини қалдурди.
+143,644,cause,2,The man received strange looks from passengers on the train.,He was staring at the ground.,He was talking to himself.,Бу әр пойиздики йолучиларниң ғәлитә қияпитини тапшурувалған.,У йәргә тикилип туратти.,У өзи билән параңлишивататти.
+144,645,effect,1,The child left crumbs on the floor.,Ants crawled to the crumbs.,The child put the bread away.,Бала ушшақ-чүшшәк нәрсиләрни йәргә қоюп қойди.,Чүмүлиләр увақларға қарап өмиләп кәтти.,Бала нанни бир чәткә елип қойди
+145,646,cause,2,The woman handed her sister a tissue.,The woman's sister folded her hands.,The woman's sister began to cry.,Аял сиңлисиға қоляғлиқни бәрди.,У аялниң сиңлиси қолини узитип қойди.,У аялниң сиңлиси йиғлашқа башлиди.
+146,647,cause,2,The man took a mint.,His lips were chapped.,He worried about bad breath.,У киши  ялпуз алди.,Униң ләвлири чувулди.,У еғиз пураштин әнсириди.
+147,648,cause,1,The couple left early for the show.,They anticipated traffic around the theatre.,They got directions to the theatre.,Бу бир җүп әр-аял балдурла тамашаға кәткән.,Улар тиятирханиниң әтрапидики қатнашни мөлчәрлиди.,Улар тиятирханиға йөнилишкә еришти.
+148,649,effect,2,The woman stayed home from work.,Her boss praised her.,Her coworker covered for her.,У аял иштин чүшүп өйдә қалди.,Униң хоҗайини уни махтиди.,Хизмәтдиши униң үчүн буни йошурди.
+149,650,cause,1,The man signed the activists' petition.,He supported their cause.,He denounced them as crazy.,Бу әр паалийәтчиләрниң илтимасиға имза қойди.,У уларниң ишлирини қоллиди.,У уларни сараң дәп әйиблиди.
+150,651,cause,1,The actor's heart was fluttering before his performance.,He had stage fright.,He memorized his lines.,Артисниң ипадисидин бурун униң йүрики ләрзигә кәлди.,Униң сәһнә қорқунчи бар иди.,У қурлирини ядлиди.
+151,652,effect,2,I was lost.,I counted my cash.,I unfolded a map.,Мән йоқалиб қалдим.,Мән нәқ пулумни санап бақтим.,Мән бир хәритини ачтим.
+152,653,effect,2,The ripe fruit lingered in the sun.,It was eaten.,It shriveled up.,Пишқан мевиләр аптапта тохтап қалди.,У йәйилгән иди.,У кичикләп кәтти.
+153,654,cause,2,The car broke down.,I turned the ignition.,The engine overheated.,Машина бузулди.,Мән от туташтурушни яндурдим.,Матор қизип кәтти.
+154,655,effect,2,The man hurt his back.,He went to see a psychiatrist.,He stayed in bed for several days.,У киши дүмбисигә азар бәрди.,У роһий кесәлләр дохтурини көргили барди.,У кариватта бир нәччә күн қалди.
+155,656,cause,2,I started a fire in the fireplace.,I was out of firewood.,It was cold in the house.,Мән очаққа от қойдум.,Мәндә отун тугиди.,Өйдә соғуқ иди.
+156,657,cause,1,The woman stopped jogging.,She got a cramp in her side.,She got a second wind.,Аял аста йүгүрүшни тохтатти.,Униң ян тәрипидә тартишиш бар.,У иккинчи шамалға еришти.
+157,658,effect,1,I knocked on my neighbor's door.,My neighbor invited me in.,My neighbor left her house.,Мән қошнамниң ишикини чәктим.,Қошнам мени тәклип қилди.,Қошнам өйидин айрилди.
+158,659,cause,1,The woman sighed with frustration.,Her husband misunderstood her concerns.,Her husband kissed her goodbye.,У аял үмидсизләнгән һалда аһ урди.,Йолдиши униң әндишисини хата чүшинип қалди.,Йолдиши униң билән хошлашти.
+159,660,cause,1,The teacher commended the student.,The student answered the question correctly.,The student hesitated to answer the question.,Оқутқучи бу оқуғучини махтиди.,Оқуғучи бу соалға тоғра җаваб бәрди.,Оқуғучи соалға җаваб бериштин гуманланди.
+160,661,effect,2,The woman ran out of eggs.,She went to the farm.,She went to the supermarket.,У аялниң тухуми түгиди.,У деһқанчилиқ мәйданиға барди.,У талла базириға барди.
+161,662,effect,2,I encountered an old friend.,I revealed a secret to him.,I gave him a hug.,Мән бир кона достумға йолуқтум.,Мән униңға бир мәхпийәтликни ашкарилидим.,Мән уни қучақлидим.
+162,663,cause,2,The woman avoided going in the lake.,She caught a fish.,It looked contaminated.,Аял көлгә кириштин өзини қачурди.,У бир белиқни тутти.,У булғанғандәк қилатти.
+163,664,cause,1,The student arrived to class soaking wet.,His umbrella was broken.,His bike was stolen.,Оқуғучи нәмдәп дәрскә кәлди.,Униң қовурғиси сунуп кәтти.,Униң велисипити оғриланған иди.
+164,665,cause,2,The cursor on the computer screen moved.,The user clicked the mouse.,The user shifted the mouse.,Компютер екранидики нур бәлгә йөткилиду.,Ишләткүчи чашқинәкни чәкти.,Ишләткүчи чашқинәкни йөткиди.
+165,666,cause,1,The driver took a detour.,An accident occurred on the main road.,She followed the truck in front of her.,Шопур айлинип өтти.,Асаслиқ йолда һадисә йүз бәрди.,У йүк машинисиниң кәйнидин әгишип маңди.
+166,667,effect,1,I hung the wet linen on the outdoor clothesline.,The linen dried.,The linen stained.,Мән һөл рәхтни сирттики кийим-кечәкләргә есип қойдум.,Кәндир қурутулди.,Кәндир дағ.
+167,668,cause,1,The woman put on her shades.,The sunlight was bright.,She hailed a cab.,У аял көзәйнәк тақап қойди.,Қуяш нури йоруқ иди.,У бир кабинкини алқишлиди.
+168,669,cause,2,The man gazed at the night sky.,He wished it were summer.,He thought it was beautiful.,У киши кечә асминиға қариди.,У язниң келишини арзу қилатти.,У уни чирайлиқ болған дәп ойлиди.
+169,670,effect,1,I felt exhausted.,I went to bed early.,I stayed up all night.,Мән һарғинлиқ һес қилдим.,Мән балдур ухлидим.,Мән кечичә ухлимидим.
+170,671,cause,2,The man went to the barber.,He was growing out his hair.,His hair was getting long.,У киши сатирачханиға барди.,У чечини өстүрүвататти.,Униң чечи узун болуп кәтти.
+171,672,cause,2,The boy played mean tricks on his new classmate.,The boy welcomed the new classmate.,The boy disliked the new classmate.,Бу бала йеңи савақдишиға алдамчилиқ ойниди.,Бала йеңи савақдишини қарши алди.,Бала йеңи савақдишини яқтурмиди.
+172,673,cause,1,I craved a glass of milk.,I was eating cookies.,I was baking bread.,Мән бир истакан сүткә һәвәс қилдим.,Мән печинә йәвәтаттим.,Мән болка пишурвататтим.
+173,674,effect,1,It began to rain.,The driver turned on the headlights.,The driver shifted the car into reverse.,Ямғур йеғишқа башлиди.,Шопур чоң чирағни яндурди.,Шопур машинини тәтүр йөнилишкә йөткиди.
+174,675,effect,2,The parking lot of the building was empty.,I parked across the street.,I parked near the entrance.,Бинаниң машина тохтитиш орни бош иди.,Мән кочиниң удулида тохтаттим.,Мән кириш еғизиға йеқин машина тохтаттим.
+175,676,cause,1,The writer missed her deadline for the draft submission.,She had writer's block.,She edited the draft.,Язғучи лайиһәни тапшуруш муддитини қолдин берип қойди.,Униң язғучи топи бар.,У лайиһәни тәһрирлиди.
+176,677,cause,1,The associate hung up on me.,I asked to speak to a supervisor.,I provided my identification number.,һәмраһим маңа есилди.,Мән бир назарәтчи билән сөзлишишни тәләп қилдим.,Кимлик ​​номуримни тәминлидим.
+177,678,effect,2,The wind blew through the open window.,The doorbell rang.,The curtains shuddered.,Очуқ деризидин шамал чиқти.,Ишик қоңғуриқи сайриди.,Пәрдиләр титрәп кәтти.
+178,679,cause,2,The electricity in my house shut off.,I unplugged the lamp.,I blew a fuse.,Өйүмдики ток үзүлүп қалди.,Мән чирағни чувувәттим.,Мән бир данә ғуңулдим.
+179,680,cause,2,The weightlifter grunted.,He flexed his muscles in the mirror.,He lifted the bar over his head.,Еғирлиқ көтүргүчи һөркириди.,У әйнәктики мускуллирини әвришим қилди.,У балдақни бешиға көтүрди.
+180,681,effect,2,The student tried to do the math in his head.,He got out a calculator.,He got confused.,Оқуғучи униң бешида математика қилмақчи болди.,У һесаблиғучни чиқарди.,У гаңгирап қалди.
+181,682,cause,2,The baby fell asleep.,The father changed the baby's diaper.,The father gently rocked the baby.,Бовақ ухлап қалди.,Ладиси бовақниң зака иштинини алмаштурди.,Дадиси бовақни аста силкиди.
+182,683,effect,2,The girl threw the water balloon at the boy.,The boy got a concussion.,The boy got soaked.,Қиз су шарни балиға ташлиди.,Бала титрәп кәтти.,Бала чилап кәтти.
+183,684,effect,1,The photographer forgot to use the flash on the camera.,The photos turned out blurry.,Everyone in the photos refused to smile.,Фотограф чақмақ лампини камерада ишлитишни унтуп қалди.,Сүрәтләр тутуқ болуп кәтти.,Сүрәттики һәммәйлән күлүшни рәт қилди.
+184,685,cause,2,I declined the invitation to the birthday party.,I was lonely.,I was out of town.,Туғулған күн зияпитигә тәклипни рәт қилдим.,Мән ялғуз идим.,Мән шәһәр сиртида идим.
+185,686,cause,1,I exercised.,I felt energetic.,I was scared.,Мән чениқтим.,Мән җушқун һес қилдим.,Мән қорқуп кәттим.
+186,687,effect,2,I squeezed the damp sponge.,It soaked up water.,Water seeped out of it.,Мән нәм паләкни қисип қойдум.,У суни чилап қойди.,Униңдин су чиқип кәтти.
+187,688,cause,2,The vacationers took a ferry to the resort.,The resort was booked.,The resort was on an island.,Дәм алғучилар парахот билән арамгаһқа барди.,Арамгаһ закас қилинған иди.,Бу арамгаһ бир аралда иди.
+188,689,cause,2,The teenager got a tattoo.,She was afraid of needles.,She wanted to rebel.,Өсмүр чәкмә чекишкә еришти.,У йиңнидин қорқатти.,У асийлиқ қилмақчи болди.
+189,690,effect,1,An unfamiliar car parked outside my house.,I became suspicious.,I called the police.,Натонуш машина мениң өйүмниң сиртида тохтап қалди.,Мән гуманлиқ болуп қалдим.,Мән сақчиға телефон қилдим.
+190,691,cause,1,The criminal turned himself in.,The evidence implicated him.,There was no evidence against him.,Җинайәтчи өзини мәлум қилди.,Дәлил-испатлар униңға четишлиқ.,Униңға қарши һечқандақ пакит йоқ иди.
+191,692,effect,1,The heavyset man decided to lose weight.,He cut out sweets.,He avoided caffeine.,Еғирлиқтики адәм оруқлашни қарар қилди.,У татлиқ нәрсиләрни йемиди.,У коффеиндин өзини қачурди.
+192,693,effect,1,The girl stepped on the ice.,She slid.,She shivered.,Қиз музға қәдәм қойди.,У сийрилип кәтти.,У титрәп кәтти.
+193,694,cause,1,The woman had rings under her eyes.,She stayed up all night.,She put her son to bed.,Бу аялниң көзиниң астида үзүк бар иди.,У кечичә ухлимиди.,У оғлини кариватқа қойди.
+194,695,cause,1,Lava flowed from the volcano.,The volcano erupted.,The volcano was dormant.,Лава янар тағдин төкүлүп кәтти.,Янар тағ партлиди.,Янар тағ уйқуда иди.
+195,696,cause,2,The woman put her shoes on.,She knew everyone at the party.,She wanted to leave the party.,Аял аяғ киймини салди.,У йиғилишта һәммәйләнни тонуди.,У йиғилиштин айрилмақчи болған.
+196,697,effect,1,I paid the tollbooth attendant.,She let me pass through the tollbooth.,She detained me at the tollbooth.,Мән һәқ елиш мулазимәтчисигә һәқ бәрдим.,У мени һәқ елиш понкитидин өткүзүшкә рухсәт қилди.,У мени һәқ елиш понкитида тутуп турди.
+197,698,cause,2,The executive went bankrupt.,He sold his company stock.,He squandered his fortune.,Иҗраийә әмәлдари вәйран болди.,У ширкәтниң пейини сетивәтти.,У байлиқини исрап қилди.
+198,699,cause,2,The man went to the doctor.,The doctor was on leave.,The man felt ill.,У киши дохтурниң йениға барди.,Дохтур дәм еливататти.,У киши кесәл болуп қалди.
+199,700,cause,1,I exited my bedroom through the window.,The house was on fire.,The house was empty.,Мән деризидин ятақ өйүмдин чиқтим.,Өйгә от кәтти.,Өй бош иди.
+200,701,cause,1,The boy's fingers became pruny.,He took a long shower.,He lathered his hands with soap.,Балиниң бармақлири путлишип кәтти.,У узун ююнди.,У қоллирини сопун билән йөгәп қойди.
+201,702,cause,1,I spit out the milk.,The milk tasted sour.,My mouth was dry.,Мән сүтни түкүрүвәттим.,Сүтниң тәми аччиқ.,Еғизим қуруп кәтти.
+202,703,effect,2,I missed the bus.,I was early to work.,I was late to work.,Мән аптобусни қолдин берип қойдум.,Мән хизмәт қилишқа балдур идим.,Мән хизмәткә кечикип қалдим.
+203,704,effect,2,The truck collided with the car.,The truck sped up.,The car got smashed.,Йүк машиниси машина билән соқулған.,Йүк машиниси тезлишип кәтти.,Машина парчилиниб кәтти.
+204,705,effect,1,The team rigged the contest in their favor.,They won.,They dropped out.,Команда мусабиқини уларниң пайдисиға алди.,Улар ғәлибә қилди.,Улар чекинип кәтти.
+205,706,cause,2,The soda bottle hissed.,I turned over the bottle.,I twisted off the cap.,Сода ботулкаси сайриди.,Мән ботулкини өрүвәттим.,Мән доппини бурап қойдум.
+206,707,effect,1,The boy was locked out of his house.,He crawled in through an open window.,He climbed up to the roof.,Бала өйиниң сиртида қулупланған иди.,У очуқ деризидин өмиләп кирди.,У өгзигә чиқти.
+207,708,effect,2,The doorbell rang.,The visitor tapped the knocker on the door.,The woman peered through the keyhole in the door.,Ишик қоңғуриқи сайриди.,Зиярәтчи ишикни чәккүчини чәкти.,Аял ишиктики ачқучтин тикилип қариди.
+208,709,effect,1,The man stained his suit.,He got it dry-cleaned.,He hung it in his closet.,У киши униң кийимини дағлиди.,У уни пакиз тазилап болди.,Уни ишкапиға есип қойди.
+209,710,effect,1,The girl squeezed the tube of toothpaste.,The toothpaste squirted out of the tube.,The girl spit out the toothpaste.,Қиз чиш пастисиниң турубисини қисип қойди.,Чиш пастиси нәйчидин чиқип кәтти.,Қиз чиш пастисини түкүрди.
+210,711,effect,1,Civilian deaths from the war surged.,Pacifists staged a protest.,Pacifists held a parade.,Урушта пуқраларниң өлүми шиддәт билән ашти.,Eрушқа қарши турғучилар намайиш өткүзди.,Eрушқа қарши турғучилар парат өткүзди.
+211,712,cause,2,The girl yanked the ribbon out of her hair.,She tied the ribbon.,The ribbon looked babyish.,Қиз чечидин лентини йиртивәтти.,У лентини бағлиди.,Лента қаримаққа бовақтәк көрүнди.
+212,713,effect,2,The man got plastic surgery.,He aged.,He looked younger.,Бу әр суляв оператсийә қилдурди.,У қерип кәтти.,У яш көрүнди.
+213,714,cause,1,A baby chicken emerged from the egg.,The egg hatched.,I cracked the egg.,Тухумдин бир чүҗә пәйда болди.,Тухум чиқти.,Мән тухумни йеривәттим.
+214,715,effect,1,The prisoner starved.,He died.,He fled.,Мәһбус ач қалди.,У вапат болди.,У қечип кәтти.
+215,716,effect,2,The man lost his balance on the ladder.,He climbed up the ladder.,He fell off the ladder.,Бу әр шота үстидики тәңпуңлуқини йоқатти.,У пәләмпәйдин чиқти.,У пәләмпәйдин йиқилип чүшти.
+216,717,cause,1,The child burped.,He took a swig of soda.,He opened the soda can.,Бала кекирди.,У бир ютум Сода алди.,У Сода қутини ачти.
+217,718,effect,2,A cold draft came in through the window.,I relaxed.,I shivered.,Деризидин соғуқ шамал кәлди.,Мән арам алдим.,Мән титрәп кәттим.
+218,719,cause,2,The student received a scholarship to go to college.,Her classmates respected her.,She made good grades.,Бу оқуғучи алий мәктәптә оқуш үчүн оқуш мукапат пулиға еришкән.,Савақдашлири уни һөрмәтләйтти.,У яхши номурлар алди.
+219,720,cause,2,The girl poked fun at the boy.,She lived next door to him.,She had a crush on him.,Қиз балиға қизиқчилиқ қилди.,У униң йенида туратти.,У униңға амрақ иди.
+220,721,cause,2,The hungry vagrant stole food.,He incited pity.,He had no money.,Қорсиқи ач қалған йемәкликләрни оғрилиған.,У рәһим қилди.,Униң пули йоқ.
+221,722,cause,2,I called my friend to chat.,I wanted privacy.,I felt lonely.,Достумға телефон қилип параңлаштим.,Шәхсий мәхпийәтликни ойлидим.,Өзүмни ялғузлуқ һес қилдим.
+222,723,effect,1,The man extended his hand to me.,I shook his hand.,I slapped him.,У киши маңа қол узатти.,Мән униң қолини силкидим.,Мән уни урдум.
+223,724,cause,2,I ducked.,The fireworks launched up in the air.,The frisbee soared towards my head.,Мән өзамни чәткә алдим,Поҗаңза һавада қозғалди.,Қорума бешимға қарап өрлиди.
+224,725,cause,1,The girl bit her nails.,She was worried.,She was surprised.,Қиз тирниқини чишлиди.,У әнсириди.,У һәйран қалди.
+225,726,cause,2,I turned the page on the calendar.,I marked an appointment on the calendar.,It was the beginning of a new month.,Мән календардики бәтни айландурдум.,Календарға бир тәйинләшни бәлгә қилдим.,Бу йеңи айниң башлиниши иди.
+226,727,effect,2,The husband discovered that his wife was having an affair.,He fired his lawyer.,He filed for divorce.,Ери аялиниң ашниси барлиқини байқиди.,У адвокатини иштин бошатти.,У аҗришишни илтимас қилған.
+227,728,effect,1,The girl dropped the rubber ball.,The ball bounced.,The ball glowed.,Қиз кавчук топни ташлиди.,Топ қаңқиди.,Топ парқирап кәтти.
+228,729,effect,2,The girl made a mistake on her exam.,She guessed at the answer.,She erased her answer.,Қиз имтиһанда хаталиқ садир қилди.,У җавабни пәрәз қилди.,У өзиниң җавабини өчүрди.
+229,730,effect,2,The player tackled his opponent.,His opponent caught the pass.,His opponent hit the ground.,Бу топчи рәқибини һәл қилди.,Униң рәқиби пасни тутувалған.,Униң рәқиби йәргә урулди.
+230,731,cause,1,I picked the tomatoes from the vine.,They were ripe.,I watered them.,Мән үзүмдин шохлини алдим.,Улар пишқан иди.,Мән уларни суғардим.
+231,732,effect,2,The man wanted to act romantic.,He met his ex-girlfriend for lunch.,He bought his girlfriend chocolates.,Бу әр романтик һәрикәт қилмақчи иди.,У чүшлүк тамақта сабиқ қиз дости билән көрүшти.,У қиз достиға шакилатни сетивалди.
+232,733,cause,2,The mercury in the thermometer rose.,I dropped the thermometer.,The weather got warmer.,Термометирдики симаб өрлиди.,Мән термометирни ташлидим.,һава иллип кәтти.
+233,734,effect,1,A tornado came through the town.,The roof of the courthouse blew off.,The highway became dangerously icy.,Шәһәрдин қуюн чиқти.,Сот мәһкимисиниң өгзиси партилап кәтти.,Ташйол хәтәрлик музға айлинип қалди.
+234,735,effect,1,The student received tutoring.,His grades improved.,He cheated on the exam.,Бу оқуғучи йетәкчиликни қобул қилған.,Униң нәтиҗиси яхшиланди.,У имтиһанда алдамчилиқ қилди.
+235,736,cause,2,I felt comfortable.,I kneeled down on the ground.,I wrapped myself in a blanket.,Өзүмни раһәт һес қилдим.,Мән тизлинип йәргә тизландим.,Өзүмни әдиялға орап қойдум.
+236,737,effect,2,I polished the stone.,It became slippery.,It became shiny.,Мән ташни силиқлидим.,У тейилғақ болуп қалди.,У парқирап кәтти.
+237,738,effect,2,I added sugar to the coffee.,The coffee smelled strong.,The coffee tasted sweet.,Мән қәһвәгә шекәр қоштум.,Қәһвәниң пуриқи күчлүк.,Қәһвәниң тәми татлиқ.
+238,739,effect,1,The man shuffled through the papers.,He got a paper cut.,He shredded the papers.,У киши қәғәзләрни қистиди.,У бир парчә қәғәзгә еришти.,У  қәғәзләрни парә-парә қиливәтти.
+239,740,effect,1,I pounded the nail with the hammer.,The nail sunk into the wood.,The nail became rusty.,Мән тоқмақ билән михни урдим.,Мих яғичиға ғәрқ болди.,Мих датлишип кәтти.
+240,741,effect,1,The fish bit the line.,The fisherman reeled in the fish.,The fisherman recast the line.,Белиқлар сизиқни чишлиди.,Белиқчи белиққа шуңғуп кәтти.,Белиқчи бу қурни қайта баян қилди.
+241,742,cause,1,The teenager was embarrassed to go to school.,She got a pimple.,She got her braces off.,Өсмүр мәктәпкә бериштин хиҗил болди.,У бир данихорәк алди.,У тирнақлирини еливәтти.
+242,743,cause,1,My facial expression lit up.,I received good news.,I lost my patience.,Мениң чирай ипадилирим йоруқ болди.,Мән хуш хәвәрни тапшурувалдим.,Мән сәврчанлиқимни йоқаттим.
+243,744,cause,2,I wiped my hands with a towel.,The towel was wet.,My hands were wet.,Мән лөңгә билән қоллиримни сүрттим.,Лөңгә һөл болуп кәтти.,Қоллирим һөл болуп кәтти.
+244,745,cause,1,The man lost his balance on the stool.,The stool wobbled underneath him.,He spilled paint on the stool.,Бу әр орундуқта тәңпуңлуқини йоқатти.,Орундуқ униң астида титрәп кәтти.,У орундуққа бояқ төкти.
+245,746,cause,1,The teammates directed blame at each other.,They lost their game.,Their coach cancelled practice.,Команда әзалири бир-бирини әйибләшкә йетәклиди.,Улар оюнида уттуруп қойди.,Уларниң мәшқавули мәшиқни әмәлдин қалдурди.
+246,747,cause,1,I asked for forgiveness.,I regretted my mistake.,I achieved my goal.,Мән кәчүрүм соридим.,Мән хаталиқимға пушайман қилдим.,Мән мәқситимгә йәттим.
+247,748,cause,2,The woman became bored with her date.,He asked her questions about herself.,He talked incessantly about himself.,Бу аял униң учришишидин зерикип кәтти.,У униңдин өзи һәққидә соал сориди.,У өзи һәққидә тохтимай параңлашти.
+248,749,effect,2,The girl flashed a smile.,Her cheeks reddened.,Her dimples showed.,Қиз күлүп қойди.,Униң мәңзи қизирип кәтти.,Униң ғувалири көрситилди.
+249,750,cause,1,The enemy ship blew up.,It passed over the mine.,It sailed into the harbor.,Дүшмән парахоти партилап кәтти.,У минадин өтти.,У портқа қарап йолға чиқти.
+250,751,cause,2,The man punctured his foot.,He walked into a puddle.,He stepped on broken glass.,У киши униң путини санҗиди.,У бир көлчәккә кирди.,У сунуп кәткән әйнәккә қәдәм қойди.
+251,752,effect,1,The detectives dusted the crime scene for fingerprints.,They discovered the identity of the murderer.,They found the weapon at the crime scene.,Разведкичилар бармақ изи үчүн җинайәт мәйданини топа бесип кәтти.,Улар қатилниң кимликини байқиған.,Улар қорални җинайәт мәйданидин тапти.
+252,753,effect,1,There was a lot of traffic on the highway.,I took a detour.,I asked for a ride.,Юқири сүрәтлик ташйолда қатнаш көп иди.,Мән айлинип өттүм.,Мән меңишни тәләп қилдим.
+253,754,effect,2,The nation's economy declined.,Many people got sick.,Many people faced unemployment.,Дөләтниң иқтисади төвәнлиди.,Нурғун кишиләр кесәл болуп қалди.,Нурғун кишиләр ишсизлиққа дуч кәлди.
+254,755,cause,1,The crossing guard blew her whistle at the children.,They were about to walk into oncoming traffic.,She recognized them from her neighborhood.,Йолдин өтүп кетиватқан қаравул балиларға пуштәк челип бәрди.,Улар келиватқан қатнашқа маңмақчи иди.,У уларни әтраптин тонуди.
+255,756,cause,2,I rolled my eyes at my friend.,He told me the truth.,He made a sarcastic remark.,Мән достумға көзүмни юмдим.,У маңа һәқиқәтни ейтти.,У һәҗвий сөз қилди.
+256,757,effect,1,The car ran out of gas.,The driver was stranded on the road.,The driver picked up a hitchhiker.,Машининиң йеқилғуси түгәп кәтти.,Шопур йолда тохтап қалди.,Шопур машиниға чиқивалғучини алди.
+257,758,effect,1,The woman went into labor.,The baby was delivered.,The woman had morning sickness.,Аялниң қисқириши башланди.,Бовақ туғулди.,Бу аялниң әтигәнлик кесили бар иди.
+258,759,cause,2,The man's hat blew away.,He took off the hat.,It was windy outside.,У кишиниң қалпиқи учуп кәтти.,У қалпақни салди.,Сиртта шамал чиқатти.
+259,760,cause,1,The girl attended her classmate's birthday party.,She received an invitation.,She bought a gift.,Бу қиз савақдишиниң туғулған күни зияпитигә қатнашти.,У тәклипнамини тапшурувалған.,У бир совғат сетивалди.
+260,761,effect,1,The boy's forehead felt hot.,His mother took his temperature.,His mother took him to the park.,Балиниң пешаниси қизип кәтти.,Аниси униң температурисини алди.,Аниси уни бағчиға елип барди.
+261,762,cause,1,The man sprayed himself with cologne.,He wanted to impress his date.,He put gel in his hair.,У киши өзигә колин пүркүп қойди.,У өзиниң қиз достини тәсирләндүрүшни ойлиди.,У чечиға гели қойди.
+262,763,effect,1,The electricity in the house shut off.,I looked for a flashlight.,I picked up a shovel.,Өйдики ток үзүлүп қалди.,Қол чириғини издидим.,Мән бир гүрҗәк алдим.
+263,764,cause,2,The family moved into a bigger house.,The son graduated from high school.,The mother gave birth to twins.,Бу аилә чоңрақ өйгә көчүп кирди.,Оғли толуқ оттура мәктәпни пүттүрди.,Ана қошкезәк туғқан.
+264,765,cause,1,The marathoner kept at a slow pace.,She wanted to conserve her energy.,She saw the finish line.,Марафончә йүгүрүш маһири аста сүрәттә сақлиди.,У өзиниң енергийәсини теҗәп қалғуси.,У ахирқи нуқтини көрди.
+265,766,cause,2,The boy kicked the vending machine.,The machine spit out the change.,The bag of chips was stuck.,Бала сетиш машинисини тәпти.,Машина қайтурулидиған пулни түкүрди.,Өзәк халтиси чаплишип қалди.
+266,767,effect,2,My friend's dog died.,I rolled my eyes at him.,I gave him a hug.,Достумниң ити қаза қилди.,Мән униңға тикилип қаридим.,Мән уни қучақлидим.
+267,768,effect,2,The businessman's credit card got declined.,He wrote an IOU.,He paid with cash.,Содигәрниң инавәтлик картиси төвәнләп кәтти.,У ИОУга язған.,У нәқ пул билән төлиди.
+268,769,cause,2,The man cursed.,He clipped his nails.,He stubbed his toe.,У киши ләнәт қилди.,У тирниқини кесип ташлиди.,У пут бармиқиға азар бәрди.
+269,770,cause,2,The man felt proud of his brother.,His brother got in an argument with their parents.,His brother got accepted into law school.,Бу әр акисидин пәхирлиниш һес қилди.,Акиси ата-аниси билән талаш-тартиш қилған.,Акиси қанун факултетиға қобул қилинди.
+270,771,effect,1,The girl wanted to learn about the solar system.,She went to the library.,She looked at the stars.,Бу қиз қуяш системисини өгәнмәкчи болған.,У кутупханиға барди.,У юлтузларға қариди.
+271,772,cause,2,The poster stuck to the wall.,I positioned the poster above the door.,I put tape on the back of the poster.,Пилакат тамға чаплишип қалди.,Мән пилакатни ишикниң үстигә қойдум.,Пилакатниң кәйнигә лента қойдум.
+272,773,effect,1,The client approved the architect's plans for the building.,The architect constructed the building.,The architect adjusted the plans.,Херидар бинакарниң бина пиланини тәстиқлиди.,Бинакар бина салған.,Бинакар пиланларни тәңшиди.
+273,774,cause,1,The man dropped his spoon.,His hand was shaking.,He licked the spoon.,У киши қошуқни ташлиди.,Униң қоли титрәп кәтти.,У қошуқни ялап қойди.
+274,775,effect,2,The CEO of the company resigned.,The board of directors dissolved the company.,The board of directors found his replacement.,Ширкәтниң баш иҗраийә әмәлдари истипа бәрди.,Мудирийәт ширкәтни тарқитивәтти.,Мудирийәт униң орнини алидиған адәм тапти.
+275,776,effect,1,I arrived late to the lecture.,I took a seat in the back row.,I approached the podium.,Мән дәрскә кечикип кәлдим.,Мән арқа рәттә орун алдим.,Мән рәис сәһнисигә йеқинлаштим.
+276,777,cause,1,The man was released from jail.,His family paid his bail.,He attacked a fellow inmate.,Бу әр түрмидин қоюп берилгән.,Книң аилисидикиләр кепиллик пулини төлиди.,У бир мәһбусқа һуҗум қилди.
+277,778,cause,2,The family lost all their belongings.,They sold their house.,Their house caught fire.,Өйдикиләр барлиқ нәрсилирини йоқитип қойди.,Улар өйлирини сетивәтти.,Уларниң өйигә от кәтти.
+278,779,effect,2,I stomped on the aluminum can.,The can was recycled.,The can got crushed.,Мән алюмин қутиға дәссидим.,Қути қайта пайдиланди.,Қута банка тармар қилинди.
+279,780,effect,2,The girl joined the debate team.,She learned to use a computer.,She learned communication skills.,Қиз муназирә гурупписиға қошулди.,У компютер ишлитишни өгәнди.,У алақә маһаритини өгәнди.
+280,781,cause,1,My mood improved.,I listened to music.,I did the dishes.,Кәйпиятим яхшиланди.,Мән музика аңлидим.,Мән қача-қучиларни юйдум.
+281,782,effect,2,The charity made a goal to raise money.,They fed the homeless.,They held an auction.,Хәйр-сахавәт оргини пул топлашни нишан қилди.,Улар сәргәрданларни бақти.,Улар кимартуқ содиси қилди.
+282,783,effect,2,The roller coaster plunged down the steep drop.,The passengers giggled.,The passengers screamed.,Ғалтәклик пәләмпәй тик тамға чүшүп кәтти.,Йолучилар күлүп кәтти.,Йолучилар вақириди.
+283,784,effect,2,I was furious.,I checked the mailbox upon leaving the house.,I slammed the door upon leaving the house.,Мән қаттиқ аччиқландим.,Өйдин чиққишдин алдин хәт сандуқини тәкшүрдүм.,Өйдин чиққанда ишикни урдум.
+284,785,effect,2,The man wanted to watch the sunrise.,He travelled north.,He got up early.,У киши қуяшниң чиқишини көрүшни ойлиди.,У шималға қарап маңди.,У балдур орнидин турди.
+285,786,effect,2,I folded the paper.,I recycled the paper.,The paper creased.,Мән қәғәзни қатлидим.,Мән қәғәзни қайта пишшиқлап ишлидим.,Қәғәз қирилип кәтти.
+286,787,effect,2,The nation endured a natural disaster.,Leaders of other countries formed an alliance.,Leaders of other countries sent emergency relief.,Милләт тәбиий апәткә бәрдашлиқ бәрди.,Башқа дөләт рәһбәрлири иттипақ түзди.,Башқа дөләт рәһбәрлири җиддий қутқузуш әвәтти.
+287,788,cause,2,The boy's clothes got soaked.,He climbed out of the pool.,He fell into the pool.,Балиниң кийимлири чилап кәтти.,У көлчәктин чиқти.,У көлчәккә чүшүп кәтти.
+288,789,cause,1,The student rushed to finish the book.,It was due to be returned to the library.,He borrowed it from a friend.,Оқуғучи китабни түгитишкә алдириди.,У күтүпханиға қайтурулуши керәк иди.,У уни бир достидин арийәткә алған.
+289,790,cause,2,The criminal was executed.,He was thrown in jail.,He was convicted of murder.,Җинайәтчиниң өлүм җазаси иҗра қилинған.,У түрмигә ташланди.,У қатиллиқ җинайити билән әйибләнгән.
+290,791,cause,1,Sunlight entered the room.,I opened the curtains.,I unlocked the door.,Қуяш нури өйгә кирди.,Мән пәрдиләрни ачтим.,Мән ишикни ачтим.
+291,792,effect,1,I yanked the imposter's hair.,Her wig came off.,She went bald.,Мән алдамчиниң чечини тарттим.,Униң ялған чачлири чиқип кәтти.,У тақирбаш болуп кәтти.
+292,793,cause,2,The editor reworded a sentence in the manuscript.,He found the manuscript compelling.,He deemed the sentence unclear.,Муһәррир қолязмиға бир җүмлә сөзни қайта язди.,У қолязмини қайил қилди.,У бу һөкүмни ениқ әмәс дәп қариди.
+293,794,cause,1,The woman cancelled her credit card account.,She realized the card was missing.,She realized the card was expired.,Бу аял инавәтлик карта һесабатини бикар қилди.,У картиниң йоқап кәткәнликини һес қилди.,У картиниң вақти тошқанлиқини һес қилди.
+294,795,effect,2,The man and woman fell in love.,They attended college.,They got married.,Әр-аял муһәббәтләшти.,Улар алий мәктәптә оқуған.,Улар той қилди.
+295,796,effect,1,The music was too faint to hear.,I turned up the volume.,I composed my own song.,Музика аңлиғудәк дәриҗидә сус иди.,Мән авазини юқири көтүрдүм.,Мән өзүмниң нахшисини иҗад қилдим.
+296,797,cause,1,The boy's hair was sticking up.,The girl ruffled it.,The girl pulled it.,Балиниң чечи чаплишип туратти.,Қиз уни гаңгиритип қойди.,Қиз уни тартти.
+297,798,cause,2,The bug got squashed.,I sprayed myself with bug repellent.,I stepped on the bug.,Қоңғуз езилди.,Мән қоңғуз йоқитиш дориси билән өзүмгә дора чачтим.,Мән қоңғузға қәдәм қойдум.
+298,799,cause,1,I opened my eyes.,I woke up.,I relaxed.,Мән көзүмни ачтим.,Мән ойғандим.,Мән арам алдим.
+299,800,effect,1,My neighbor's music was blaring.,I asked him to turn it down.,I asked to borrow the CD from him.,Қошнамниң музикилири ғуңулдайтти.,Мән уни тақашни тәләп қилдим.,Мән униңдин СД арийәт елишни тәләп қилдим.
+300,801,cause,2,The man's family lived in poverty.,He was frugal with his earnings.,He earned below minimum wage.,Бу әрниң аилиси намратлиқта яшиған.,У тапқан пули билән теҗәшлик иди.,У әң төвән иш һәққидин төвән кирим қилди.
+301,802,effect,1,The student graduated from the university.,He looked for a job.,He took up a hobby.,Бу оқуғучи университетни пүттүргән.,У хизмәт издиди.,У бир қизиқишни алди.
+302,803,effect,2,The artist mixed yellow paint into blue paint.,The paint splattered everywhere.,The paint turned green.,Рәссам сериқ бояқни көк бояққа арилаштурди.,Бояқ һәммә йәргә чечилип кәтти.,Бояқ йешил рәңгә кирди.
+303,804,cause,2,I changed the topic of conversation.,I ran out of things to talk about.,The conversation became tense.,Мән сөһбәт темисини өзгәрттим.,Мән параңлишидиған темилар түгәп кәтти.,Сөһбәт җиддийләшти.
+304,805,effect,1,My brother was released from the hospital.,I welcomed him back home.,I gave him the cold shoulder.,Акам дохтурханидин чиқти.,Мән униң өйигә қайтип кәлгәнликини қарши алдим.,Мән униңға соғуқ мүрини бәрдим.
+305,806,effect,1,The curtain on the stage went up.,The opening scene of the play began.,The actors in the play exited the stage.,Сәһнидики пәрдә өрләп кәтти.,Оюнниң ечилиш мәнзириси башланди.,Тиятирдики артислар сәһнидин чиқти.
+306,807,cause,1,The hostage submitted to the kidnapper's mandates.,The kidnapper threatened to hurt the hostage.,The kidnapper left the hostage by himself.,Тутқун тутқун қилғучиниң буйруқиға тапшурулған.,Тутқун қилғучи гөрүгә алғучиға зиянкәшлик қилидиғанлиқи тоғрисида тәһдид салған.,Тутқун қилғучи тутқунни өзи ялғуз ташлап қойған.
+307,808,cause,2,A boom reverberated across the stage.,The musician tapped his foot.,The musician pounded the drum.,Сәһнидә гүллиниш яңриди.,Музикант униң путини чәкти.,Музикант думбақни урди.
+308,809,cause,1,The parents rushed to their child's bedroom.,The child awoke screaming from a nightmare.,The child was scared to look under her bed.,Ата-анилар балисиниң ятиқиға алдириди.,Бала қабаһәтлик чүштин варқирап ойғинип кәтти.,Бала каривитиниң астиға қараштин қорқатти.
+309,810,cause,2,The woman communicated with sign language.,She was born premature.,She was born deaf.,Бу аял ишарәт тили билән алақилашти.,У балдур туғулған иди.,У гас болуп туғулған.
+310,811,effect,2,A drought occurred in the region.,The water became contaminated.,The crops perished.,Районда қурғақчилиқ йүз бәрди.,Су булғинип кәтти.,Зираәтләр һалак болди.
+311,812,effect,1,The cat chased the bird.,The bird flew away.,The bird caught a worm.,Мүшүк қушни қоғлиди.,Қуш учуп кәтти.,Қуш бир қуртни тутувалған.
+312,813,cause,2,The girl switched schools.,School let out for the summer.,She moved to a new town.,Қиз мәктәп алмаштурди.,Мәктәп язға қоюп бәрди.,У йеңи шәһәргә көчүп кәлди.
+313,814,effect,2,The factory owner refused to raise employees' wages.,The owner appointed a new manager.,The employees went on strike.,Завут хоҗайини хизмәтчиләрниң маашини өстүрүшни рәт қилди.,Хоҗайин йеңи башқурғучи тәйинлиди.,Хизмәтчиләр иш ташлиди.
+314,815,effect,2,The leader antagonized the extremists among his country.,The extremists influenced him.,The extremists assassinated him.,Бу рәһбәр өз дөлитидики ашқунларға қарши турған.,Ашқунлар униңға тәсир қилди.,Ашқунлар уни қәстләп өлтүрди.
+315,816,effect,1,I walked barefoot on the beach.,Sand stuck to my feet.,Waves crashed along the shore.,Мән деңиз бойида ялаң аяғ маңдим.,Қум путумға чаплишип қалди.,Долқун қирғаққа соқулди.
+316,817,effect,1,I woke up in the middle of the night feeling cold.,I put sweatpants on.,I drank a glass of water.,Мән йерим кечидә соғуқ һес қилип туруп кәттим.,Мән тәр иштанлирини салдим.,Мән бир истакан су ичтим.
+317,818,cause,2,The mother hushed her son.,Her son smirked.,Her son whined.,Ана оғлиниң авазини очарди.,Оғли заңлиқ қилип күлди.,Оғли варқирап кәтти.
+318,819,cause,2,A hole ripped in my jeans.,I zipped up the jeans.,I tripped on the pavement.,Кийимимдә бир төшүк йерилип кәтти.,Мән җинисни қисип қойдум.,Мән пиядиләр йолиға дәссәп кәттим.
+319,820,effect,2,The boy wore braces.,He got a cavity.,His teeth became straight.,Бала брекет тақиди.,У бир чишида өңкүргә еришти.,Униң чиши түз болуп кәтти.
+320,821,effect,1,I worked out at the gym yesterday.,I woke up today with sore muscles.,I woke up today with a sore throat.,Мән түнүгүн чениқиш өйидә ишлидим.,Бүгүн мускуллар ағрип ойғандим.,Бүгүн кекирдәк ағрип ойғандим.
+321,822,effect,2,The girl whispered back and forth to each other at the lunch table.,Other students sat down at the lunch table.,Other students at the lunch table felt left out.,Қиз чүшлүк тамақ үстилидә алди-кәйнигә пичирлиди.,Башқа оқуғучилар чүшлүк тамақ үстилидә олтурди.,Чүшлүк тамақ үстилидики башқа оқуғучилар өзини ташлап кәткәндәк һес қилди.
+322,823,effect,1,The child landed on the trampoline.,She sprung back up into the air.,She decided to try to do a flip.,Бала трамполинға қонди.,У қайтидин һаваға көтүрүлди.,У бир қетим һаваға кайип кәтишни қарар қилди.
+323,824,effect,1,I deposited the letter in the mailbox.,The post office delivered the letter.,The post office expedited the letter.,Мән хәтни хәт сандуқиға қойдум.,Почтихана хәтни йәткүзди.,Почтихана хәт әвәтишни тезләтти.
+324,825,effect,1,The gambler was confident.,He bet all of his money.,He went home broke.,Қимарваз өзигә ишинған иди.,У барлиқ пулиға до тикти.,У вәйран болуп өйигә қайтти.
+325,826,cause,1,The forest fire spread.,The winds became stronger.,The arsonists were apprehended.,Орман от апити ямрап кәтти,Шамаллар күчийип кәтти.,От қойғучилар қолға елинған.
+326,827,effect,2,The child skinned his knee.,His mother sent him to his room.,His mother put a bandage on the wound.,Бала тиз терисини шилвалди.,Аписи уни ятақиға әвәтти.,Аписи җараһәткә бент қойди.
+327,828,cause,2,The man survived the deadly illness.,He signed his will.,He received an organ transplant.,Бу әр әҗәллик кесәлдин аман қалди.,У вәсийәтнамигә имза қойди.,Униң әза көчүрүлүши бар иди.
+328,829,effect,2,I took a sip of the scalding coffee.,I bit my tongue.,I burnt my tongue.,Мән қайнаватқан қәһвәдин бир ютум алдим.,Мән тилимни чишлидим.,Мән тилимни көйдүрдүм.
+329,830,cause,2,The editor fired the writer.,The writer avoided bias in her stories.,The writer missed an important deadline.,Муһәррир язғучини иштин бошатти.,Язғучи һекайилиридә бир тәрәплимә қараштин сақланған.,Язғучи муһим мөһләтни қолдин берип қойди.
+330,831,cause,2,I felt exhausted.,I slept all day.,I studied all day.,Мән һарғинлиқ һес қилдим.,Мән күн бойи ухлидим.,Мән пүтүн күн оқудум.
+331,832,cause,1,The physician diagnosed the patient.,She identified the patient's symptoms.,She prescribed pills to the patient.,Дохтур бимарға диагноз қойди.,У бимарниң кесәллик аламәтлирини ениқлап чиқти.,У бимарға дориларни бәлгилиди.
+332,833,cause,2,I scratched my skin.,It was sweaty.,It felt itchy.,Мән теримни татилидим.,У тәрләп кәткән иди.,У қичишқандәк һес қилди.
+333,834,cause,2,The man underwent emergency surgery.,He lost his temper.,He suffered a heart attack.,Бу әр җиддий оператсийә қилинған.,У миҗәзини йоқатти.,У йүрәк кесилигә гириптар болди.
+334,835,cause,1,The man's arm muscles bulged.,He flexed his arms.,He rubbed his arms.,Бу әрниң қол мускули көпүп кәтти.,У қолини мидирлатти.,У қолирини силап қойди.
+335,836,cause,1,The man raised his eyebrows.,He was surprised.,He felt discouraged.,У киши қешини көтүрди.,У һәйран қалған иди.,У үмидсизләнгәнликини һес қилди.
+336,837,cause,1,I excused my colleague's blunder.,I believed his intentions were good.,I believed that he knew better.,Мән хизмәтдишимниң хаталиқини кәчүрүм қилдим.,Мән униң муддиасиниң яхшилиқиға ишинәттим.,Мән униң техиму яхши билидиғанлиқиға ишинәттим.
+337,838,effect,1,The man quit smoking.,He began exercising more.,He started waking up earlier.,Бу әр тамака чекишни ташлиди.,У техиму көп чениқишқа башлиди.,У балдур ойғинишқа башлиди.
+338,839,effect,2,The woman punched her attacker in the nose.,The attacker's body went lifeless.,The attacker started to bleed.,Аял һуҗум қилғучиниң бурниға урди.,һуҗум қилғучиниң җәсити җансиз қалған.,һуҗум қилғучи қанашқа башлиди.
+339,840,cause,1,The dart missed the bull's eye.,The man's aim was off.,The man was losing the game.,Найза нишанға тәгмиди..,Бу әрниң нишани йоқитилди.,Бу әр оюнда уттуруп қойди.
+340,841,cause,1,The homeowner requested that an exterminator come to his house.,He discovered rats in the basement.,He kept an ant farm in his room.,Өй игиси бир һашарәт йоқатқучини униң өйигә келишини тәләп қилди.,У йәр асти өйидида чашқанларни байқиди.,У һанисида чүмүлә деһқанчилиқ мәйданини сақлиди.
+341,842,cause,1,I suggested to my houseguest that we go out to dinner.,I was too tired to prepare anything.,My houseguest overstayed her welcome.,Мән меһманға кәчлик тамаққа сиртқа чиқишимизни тәвсийә қилдим.,Мән һәр қандақ нәрсини тәйярлашқа бәк һерип кәттим.,Миһман өйүмдә көп қалди
+342,843,effect,1,The girl caught her brother reading her diary.,She started hiding the diary.,She got a new diary.,Қиз акисини күндилик хатирисини оқуватқанда тутти.,У күндилик хатирисини йошурушқа башлиди.,У йеңи күндилик хатиригә еришти.
+343,844,effect,1,The woman was short on money for rent.,She worked overtime.,She quit her job.,Бу аялниң иҗарә һәққи төләшкә йетәрлик пули йоқ иди.,У исмена қошуп ишлигән.,У хизмитидин истипа бәрди.
+344,845,cause,1,The child's hand quickly recoiled.,He touched the hot stove.,He patted the puppy's head.,Балиниң қоли тезла әслигә кәлди.,У иссиқ очаққни тәгди.,У күчүкниң бешини силап қойди.
+345,846,effect,2,The company wanted to gauge customer satisfaction.,They offered a discount to new customers.,They distributed a survey to customers.,Ширкәт херидарларниң разимәнликини өлчәшни ойлиди.,Улар йеңи херидарларға етибар бәрди.,Улар херидарлар арисида соал қәғизи тарқатти.
+346,847,cause,2,The wood floor became scratched.,The boy threw the cushions off the couch.,The boy dragged a chair across the floor.,Яғач пол сизилған.,Бала ястуқни узун сападин ташлиди.,Бала орундуқни сөрәп полға созди.
+347,848,cause,2,I shielded my face.,My enemy taunted me.,My enemy cocked a fist.,Мән йүзүмни яптим.,Дүшминим мени һақарәтлиди.,Мениң дүшминим муштини көтүрди.
+348,849,cause,1,The famous statue burned down.,It was struck by lightning.,People came to venerate it.,Даңлиқ һәйкәл көйүп кәтти.,Чақмақ уни урди.,Кишиләр уни һөрмәтләш үчүн кәлди.
+349,850,effect,2,I left the fruit out on the table.,The fruit shed seeds.,Flies swarmed the fruit.,Мән мевини үстәлгә қоюп қойдум.,Мевиләр уларниң уруқлирини төкти.,Чивинләр мевини оривәтти.
+350,851,cause,2,The ballerina tore a ligament.,She pointed her toes.,She twisted her ankle.,Баллина бағлимини йиртивәтти.,У пут бармақлирини көрсәтти.,У путини бурап қойди.
+351,852,cause,2,The child's shoelaces came untied.,He learned how to tie them.,He ran around on the playground.,Балиниң бағлақлири йешиветилгән.,У уларни қандақ бағлашни өгәнди.,У оюн мәйданида йүгүрди.
+352,853,effect,2,I became enthralled in the book.,I returned the book.,I lost track of time.,Мән китабқа қизиқип қалдим.,Мән китабни қайтуруп бәрдим.,Мән вақитни йоқитип қойдум.
+353,854,cause,1,The man held similar beliefs to those of his parents.,His parents influenced him.,His parents disowned him.,Бу әр ата-анисиниңкигә охшаш етиқадни сақлиған.,Ата-аниси униңға тәсир қилған.,Ата-аниси уни рәт қилди.
+354,855,cause,1,The car gradually slowed to a stop.,It ran out of gas.,The driver fell asleep.,Машина аста-аста тохтап тохтап қалди.,Униң гази түгәп кәтти.,Шопур ухлап қалди.
+355,856,effect,2,The man ate the ice cream in the sun.,The ice cream lost its flavor.,The ice cream dripped from the cone.,У киши марожнини аптапта йеди.,Марожни тәмини йоқатти.,Марожни конустин тамчилиди.
+356,857,cause,2,I hung artwork in the room.,The carpet looked dirty.,The walls looked bare.,Өйгә сәнәт әсәрлирини есип қойдум.,Гиләм мәйнәт көрүнди.,Тамлар ялиңач көрүнәтти.
+357,858,cause,1,I left work early.,I had a headache.,My boss held a meeting.,Мән балдурла хизмәттин айрилдим.,Мениң бешим ағриди.,Хоҗайиним йиғин ачти.
+358,859,effect,1,The puppy soiled the carpet.,The owner scolded the puppy.,The owner gave the puppy a treat.,Күчүк гиләмни топа бесип кәтти.,Хоҗайин күчүкни тиллиди.,Хоҗайин күчүккә бир еғиз тамақ бәрди.
+359,860,effect,1,I apologized to my friend.,My friend forgave me.,My friend became infuriated.,Достумдин кәчүрүм соридим.,Достум мени кәчүрди.,Достум аччиқланди.
+360,861,cause,2,The man stood out in the crowd.,He carried a backpack.,He wore a neon vest.,У киши кишиләр арисида алаһидә көзгә көрүнди.,У сомкини көтүрүвалған.,У неон җилиткә кийгән.
+361,862,effect,2,The witness lied under oath.,He completed his testimony.,He was charged with perjury.,Гуваһчи қәсәм билән ялған ейтти.,У гуваһлиқини тамамлиди.,У ялған гуваһлиқ билән әйибләнгән.
+362,863,cause,1,The woman dyed her hair.,She wanted a new look.,She wanted to blend in.,Аял чечини бойиди.,У йеңи қияпәткә кирмәкчи болди.,У арилашмақчи болди.
+363,864,effect,2,The immigrants were caught illegally residing in the country.,They found employment.,They were deported.,Көчмәнләр бу дөләттә қанунсиз яшайдиған тутулди.,Улар хизмәт тапти.,Улар чеградин қоғлап чиқирилди.
+364,865,effect,1,The public speaker cracked a joke.,The audience laughed.,The audience stood up.,Нутуқ сөзлигүчи чақчақ қилди.,Тамашибинлар күлүшүп кәтти.,Тамашибинлар орнидин турди.
+365,866,effect,1,I looked into the sun.,The sun blinded me.,The sun tanned my skin.,Мән қуяшқа қаридим.,Қуяш мени қариғу қилди.,Қуяш мениң теримни ашлиди.
+366,867,effect,2,I felt bored.,I snorted.,I yawned.,Мән зериктим.,Мән чуқан салдим.,Мән әснәп кәттим.
+367,868,cause,1,The steak was difficult to cut.,The knife was dull.,The steak was raw.,Кавапни кесиш тәс иди.,Пичақ тутуқ иди.,Кавап хам иди.
+368,869,cause,2,The woman declared bankruptcy.,She received alimony payment.,She acquired massive debt.,Бу аял вәйран болғанлиқини җакарлиди.,У беқиш һәққигә еришти.,У чоң қәрзгә еришти.
+369,870,effect,2,The lights in my friend's apartment were on.,I wondered if he was out.,I decided to pay him a visit.,Достумниң туралғусидики чирағлар янди.,Мән униң сиртқа чиққан-чиқмиғанлиқини ойлидим.,Мән уни йоқлап беришни қарар қилдим.
+370,871,effect,2,I put the flower under my nose.,The petals came off the flower.,I picked up the flower's scent.,Мән гүлни бурнимниң астиға қойдум.,Гүл бәргиси гүлдин чүшүп кәтти.,Мән гүлниң пуриқини пуридим.
+371,872,cause,1,The woman felt nostalgic.,She ran into a childhood friend.,She yelled at her children.,Бу аял сеғинишни һес қилди.,У балилиқтики дости билән тонушқан.,У балилириға вақириди.
+372,873,effect,2,The student procrastinated on the paper.,He submitted the paper early.,He submitted the paper incomplete.,Оқуғучи қәғәзгә кечиктүрди.,У қәғәзни балдур тапшурди.,У қәғәзни толуқ тапшурмиди.
+373,874,effect,2,My car broke down.,I went to the mall.,I called a mechanic.,Муниң машиним бузулди.,Мән сода сарийиға бардим.,Мән бир механикни чақирдим.
+374,875,cause,2,I discarded the note.,It was anonymous.,It was illegible.,Мән бу изаһатни ташливәттим.,У намсиз иди.,Бу қанунсиз иди.
+375,876,effect,2,The bird flapped its wings.,It laid eggs.,It ascended upwards.,Қуш қанитини қеқивәтти.,У тухум туғди.,У юқириға өрлиди.
+376,877,cause,2,I parked in the driveway.,The garage was open.,The garage was full.,Мән машина йолиға тохтидим.,Машина искилати очуқ иди.,Машина искилати толғаниди.
+377,878,effect,2,The criminal aimed the gun at his victim.,The criminal put down the gun.,The victim put his hands up.,Тинайәтчи милтиқни зиянкәшликкә учриғучиға қаритип қойған.,Җинайәтчи милтиқни қойди.,Зиянкәшликкә учриғучи қолини көтүрди.
+378,879,cause,2,I looked forward to the weekend.,I planned to attend my uncle's funeral.,I planned to attend my friend's wedding.,һәптә ахирини тәқәззалиқ билән күтәттим.,Тағамниң дәпнә мурасимиға қатнишишни пиланлидим.,Достумниң тойиға қатнишишни пиланлидим.
+379,880,cause,1,I lost track of time.,I was daydreaming.,I was nauseous.,Мән вақитни йоқитип қойдум.,Мән хиялпәрәс идим.,Көңлүм йерим болди.
+380,881,cause,1,The document printed out illegibly.,The printer was low on ink.,The print was out of paper.,Бу һөҗҗәт қанунсиз бесип чиқирилди.,Принтерда сияһ төвән иди.,Мәтбәәда басма қәғәз түгәп кәтти.
+381,882,effect,1,The stadium played the national anthem.,The fans turned to the flag.,The fans rushed the field.,Тәнтәрбийә мәйдани дөләт шеирини яңратти.,Топ мәстанилири байраққа бурулди.,Топ мәстанилири мәйданға алдириди.
+382,883,effect,2,The dip tasted bland.,I served it.,I put salt in it.,Қиями тәмсиз иди.,Мән униңға хизмәт қилдим.,Мән униңға туз салдим.
+383,884,effect,1,I set the paper towel on the spill.,The towel absorbed the liquid.,The spill left a sticky residue.,Мән қәғәз лөңгини төкүлүшкә қойдум.,Лөңгә суюқлуқни сүмүрди.,Төкүлүш йепишқақ қалдуқ қалдурди.
+384,885,effect,1,The woman was interrupted in the midst of reading her book.,She bookmarked her page.,She reread the book.,Бир аял униң китабини оқуватқанда үзүлүп қалди.,У бетини хәткүчлиди.,У китабни қайта оқуди.
+385,886,effect,1,The plane hit some turbulence.,The man tightened his seatbelt.,The man looked out the window.,Айропилан бир қисим давалғушларға учриған.,У киши бихәтәрлик тасмисини чиңитти.,У киши деризидин сиртқа қариди.
+386,887,cause,2,The boy flinched.,The girl ignored him.,The girl poked him.,Бала титрәп кәтти.,Қиз униңға пәрва қилмиди.,Қиз уни иттиривәтти.
+387,888,cause,1,The doctors gave the patient an artificial limb.,They amputated her leg.,They monitored her vitals.,Лохтурлар бимарға сүний пут бәрди.,Улар униң путини кесивәтти.,Улар униң һаятини назарәт қилди.
+388,889,effect,2,The boy pinched the girl's elbow.,She shrugged her shoulders at him.,She jerked her arm away from him.,Бала қизниң биликини қисип қойди.,У мүрисини қисип униңға қариди.,У қолини униң йенидин тартти.
+389,890,cause,1,I asked my friend for advice.,I valued his opinion.,I knew I was right.,Достумдин мәслиһәт соридим.,Мән униң пикирини қәдирлидим.,Өзүмниң тоғра икәнликимни биләттим.
+390,891,effect,1,The boy stepped in mud.,The mud stuck to his shoes.,The mud hit him in the face.,Бала патқаққа қәдәм қойди.,Лай униң айиғиға чаплишип қалди.,Лай униң йүзигә урулди.
+391,892,effect,1,The town received several inches of snow.,Schools shut down.,People hid underground.,Бу шәһәрдә бир нәччә сантиметир қар яғди.,Мәктәпләр тақилип қалди.,Кишиләр йәр астиға йошурунди.
+392,893,effect,1,The employee's shift ended.,He went home for the day.,He threatened to quit the job.,Хизмәтчиниң алмишиши ахирлашти.,У бир күн өйгә қайтти.,У хизмәттин истипа беримән дәп тәһдид салған.
+393,894,cause,1,The tree damaged the house.,The tree fell onto the roof.,The tree shaded the backyard.,Дәрәх өйгә бузғунчилиқ қилди.,Дәрәх өгзигә йиқилди.,Дәрәх арқа һойлиға сайә ташлиди.
+394,895,cause,2,The wood split in half.,I stacked the wood in the fireplace.,I swung the axe down to the wood.,Яғач иккигә бөлүнди.,Мән яғачни очаққа тизип қойдум.,Мән дәрәхкә палта билән урдим.
+395,896,cause,2,The family congratulated the couple.,The couple announced that they were separating.,The couple announced that they were having a baby.,Өйдикиләр бу бир җүп әр-аялни тәбриклиди.,Бу бир җүпләр өзлириниң айрилип кәткәнликини елан қилди.,Бу бир җүп әр-аял өзлириниң балилиқ болғанлиқини елан қилди.
+396,897,cause,1,The girl sent the boy a valentine.,She liked him.,She kissed him.,Қиз балиға валентина әвәтти.,У  уни яхши көрәтти.,У уни сөйди.
+397,898,cause,2,I nodded my head at my friend's statement.,I was confused.,I agreed with him.,Достумниң баяниға бешини лиңшиттим.,Мән гаңгирап қалдим.,Мән униң билән мақул болдум.
+398,899,cause,2,The friends flipped a coin.,They wanted to find a compromise.,They wanted to make a fair decision.,Достлар бир тәңгә ташлиди.,Улар мурәссә қилишни ойлиди.,Улар адил қарар чиқармақчи болди.
+399,900,effect,2,The timer in the kitchen went off.,The man unloaded the groceries into the refrigerator.,The man took the pizza out of the oven.,Ашханидики вақит машиниси өчүп кәтти.,Бу әр нәрсә-керәкләрни тоңлатқуға чүшүрди.,У киши писани очақтин чиқарди.
+400,901,effect,2,The woman set an ambitious goal.,She slacked off.,She worked hard.,Бу аял улуғвар нишан тиклиди.,У бошашти.,У җапалиқ ишлиди.
+401,902,effect,2,The wealthy man died of old age.,His son got into legal trouble.,His son inherited his fortune.,Бай адәм қерип өлүп кәтти.,Оғли қануний қийинчилиққа йолуқти.,Оғли униң байлиқиға варислиқ қилди.
+402,903,effect,1,The woman stomped on the flames.,The flames went out.,Smoke arose from the flames.,Аял от ялқуниға дәссиди.,Ялқун өчүп кәтти.,Оттин ис-түтәк пәйда болди.
+403,904,cause,2,The woman's car was in the shop.,Her driver's license was revoked.,She got in a car accident.,У аялниң машиниси дуканда иди.,Униң шопурлуқ кинишкиси бикар қилинған.,У машина вәқәсигә йолуқти.
+404,905,effect,2,I slept through my alarm.,I made breakfast.,I missed breakfast.,Мән ухлапқалдим.,Мән нашта қилдим.,Мән наштилиқни қолдин берип қойдум.
+405,906,effect,1,The public figure got out of the limousine.,Cameras flashed in his direction.,His family attended the press conference.,Җамаәт әрбаби лимузиндин чиқти.,Униң йөнилишидә камералар чақнап кәтти.,Униң аилисидикиләр ахбарат елан қилиш йиғиниға қатнашти.
+406,907,effect,1,The woman lingered in the bathtub.,The bathwater became lukewarm.,The bathwater drained out of the tub.,Бу аял ваннида туруп қалди.,Мунча сүйи иллиқ болуп қалди.,Мунча сүйи ваннидин чиқип кәтти.
+407,908,effect,1,The college student wanted to meet other students on campus.,He joined a fraternity.,He majored in engineering.,Алий мәктәп оқуғучиси мәктәп һойлисида башқа оқуғучилар билән көрүшмәкчи болған.,У қериндашлиқ җәмийитигә қошулди.,У инҗиниириң  кәспидә оқуған.
+408,909,cause,1,I lifted up the couch cushions.,I was looking for loose change.,I was rearranging the living room.,Мән узун сапаниң ястуқлирини көтүрдүм.,Мән кичик пулларни издәвататтим.,Мән ятақ өйни қайтидин рәтләвататтим.
+409,910,effect,1,The wasp flew towards the boy.,The boy ran away.,The boy picked a flower.,Ара балиға қарап учти.,Бала қечип кәтти.,Бала гүлни узди.
+410,911,effect,1,The woman was found guilty of a misdemeanor.,She was sentenced to perform community service.,She was put on death row.,Бу аял қанунға хилаплиқ қилиш җинайити билән әйибләнгән.,У мәһәллә мулазимити қилишқа буйрулди.,У өлүмгә һөкүм қилинған.
+411,912,effect,2,I stirred the sugar into the hot tea.,The tea steamed.,The sugar dissolved.,Мән шекәрни қизиқ чайға арилаштурдум.,Чай дәмләнгән.,Шекәр ериди.
+412,913,cause,2,The veteran walked with a limp.,He was drafted for the war.,He was injured in battle.,Пешқәдәм әскәр мағдурсизлинип маңди.,У урушқа чақирилди.,У җәңдә яриланған иди.
+413,914,effect,2,The criminal ran away from the police.,The police attended to the victim.,The police chased the criminal.,Җинайәтчи сақчилардин қечип кәткән.,Сақчилар зиянкәшликкә учриғучиларниң һалидин хәвәр алған.,Сақчилар җинайәтчини қоғлиған.
+414,915,cause,1,The laptop wouldn't turn on.,I dropped it.,I charged it.,Хатирә компютер ечилмиди.,Мән уни ташлидим.,Мән уни ток билән ток қачилидим.
+415,916,cause,1,The woman ran out of room in her closet.,She acquired an extensive wardrobe.,She folded her laundry.,У аялниң ишкапта йетәрлик бошлуқи йоқ иди.,У кәң кийим ишкапиға еришти.,У кирлирини қатлиди.
+416,917,cause,2,The man was heartbroken.,His wife gave birth.,His wife left him.,У кишиниң йүрики сунуп кәтти.,Униң аяли туғди.,Аяли уни ташлап кәтти.
+417,918,effect,1,The man obtained a degree.,He became qualified for the job he wanted.,His job offer was rescinded.,У киши унван алди.,У өзи арзу қилған хизмәткә лаяқәтлик болди.,Униң хизмәт тәклипи бикар қилинди.
+418,919,cause,2,The man's voice projected clearly throughout the auditorium.,He greeted the audience.,He spoke into the microphone.,Бу әрниң авази пүтүн йиғин залида ениқ пәрәз қилинди.,У тамашибинларға салам бәрди.,У микрофонда сөзлиди.
+419,920,effect,1,I tossed a coin into the fountain of water.,The coin sunk to the bottom.,The coin broke in half.,Мән бир тәңгини су булиқиға ташлидим.,Тәңгә булиқниң астиға чөкүп кәтти.,Тәңгә иккига йерилип кәтти.
+420,921,effect,1,The player hit the ball toward the hole.,The ball went in the hole.,The ball retreated back to the player.,Бу топчи топни төшүккә урди.,Топ төшүккә кирди.,Топ қайтип келип топчиға қайтип кәлди.
+421,922,effect,2,I breathed in the dust in the attic.,I hiccupped.,I sneezed.,Мән атханидики чаң-тозандин нәпәс алдим.,Мән һиҗрәт қилдим.,Мән чайқидим.
+422,923,cause,1,The store cashier called security.,The customer used counterfeit money.,The customer left his headlights on.,Дукан хизмәтчиси бихәтәрликкә телефон қилди.,Херидар сахта пул ишләткән.,Херидар чоң чирағни қоюп қойди.
+423,924,cause,1,I took the garbage out.,The garbage made the kitchen smell bad.,I accidentally threw away my shopping list.,Мән әхләтни ташливәттим,Әхләт сәвәбидин ашхана пурап кәтти.,Еһтиятсизлиқтин мал сетивелиш тизимликимни ташливәттим.
+424,925,effect,1,The family went to the zoo.,The children admired the animals.,The children chased the animals.,Өйдикиләр һайванатлар бағчисиға барди.,Балилар һайванларға һәвәс қилди.,Балилар һайванларни қоғлиди.
+425,926,cause,2,The man's breathing was loud.,His kidneys were failing.,His lungs were congested.,У кишиниң нәпәс елиши қаттиқ иди.,Униң бөрики мәғлуп болған.,Униң өпкиси қистаңчилиқ иди.
+426,927,effect,2,I had an extra ticket for the concert.,I asked my friend for directions to the venue.,I asked my friend if he was interested in going.,Мениң консертқа қошумчә беләтүм бар иди.,Мән достумдин сорунға йөнилиш соридим.,Мән достумдин униң меңишқа қизиқидиғанлиқини соридим.
+427,928,effect,2,The air conditioner in the house broke.,I brought out blankets.,I opened the windows.,Өйдики һава тәңшигүч бузулди.,Мән әдиял чиқардим.,Мән деризини ачтим.
+428,929,cause,2,The boy's back ached.,His backpack was open.,His backpack was heavy.,Балиниң дүмбиси ағриди.,Униң сомкиси очуқ иди.,Униң сомкиси еғир иди.
+429,930,cause,2,I bought my mother a present.,I baked her a cake.,It was her birthday.,Мән апамға совғат сетивалдим.,Мән униңға торт пишурдим.,Бу униң туғулған күни иди.
+430,931,cause,2,The daffodils in the garden were destroyed.,A bee stung the gardener.,Squirrels dug up the bulbs.,Бағдики  нәргисләр вәйран болди.,Бағвән һәсәл һәриси тәрипидин санҗилип кәтти.,Тийинлар пияз башлиқлирини колап чиқти.
+431,932,effect,2,I struck the match.,The flame faded out.,The match produced a flame.,Мән сәрәңгә яндурдум.,Ялқун өчүп кәтти.,Сәрәңгә от ялқуни пәйда қилди.
+432,933,cause,1,The disputing parties reached a settlement.,They didn't want to debate in court.,They wanted to repair their personal relationship.,Талаш-тартиш қиливатқан тәрәпләр мурәссә қилди.,Улар сотта муназирә қилишни халимиди.,Улар шәхсий мунасивитини әслигә кәлтүрмәкчи болди.
+433,934,cause,1,The children were sent to an orphanage.,Their parents died.,Their parents spoiled them.,Балилар дарилтамға әвәтилди.,Уларниң ата-аниси қаза қилған.,Уларниң ата-аниси уларни бузувәтти.
+434,935,effect,1,A meteorite landed in the ocean.,A tsunami occurred.,It began to hail.,Бир метеорит окянға қонди.,Деңиз шавқуни йүз бәрди.,Мөлдүр йеғишқа башлиди.
+435,936,effect,2,The hiker encountered a poisonous snake.,She became dehydrated.,She panicked.,Саяһәтчи зәһәрлик йиланға йолуққан.,У сусизлинип кәтти.,У алақзадә болуп кәтти.
+436,937,cause,1,The oven became hot.,I turned the oven on.,I put the dish in the oven.,Очақ қизип кәтти.,Мән очақни ачтим.,Мән тамақни очаққа салдим.
+437,938,effect,2,I squeezed the lemon wedge.,The lemon got moldy.,The lemon squirted.,Мән лимон кавипини қисип қойдум.,Лимон қетип қалди.,Лимон қистилип кәтти.
+438,939,effect,2,The country discovered new land.,The country abandoned the land.,The country colonized the land.,Дөләт йеңи земинни байқиди.,Дөләт земинидин ваз кәчти.,Дөләт бу йәрни мустәмликә қилди.
+439,940,effect,1,The glass toppled off the table.,It shattered all over the floor.,It landed in a pile of laundry.,Әйнәк үстәлдин өрүлүп чүшти.,У һәммә йәргә чечилип кәтти.,У бир дөвә киралғуға қонди.
+440,941,cause,1,The table wobbled.,The floor was uneven.,The floor was slippery.,Устәл титрәп кәтти.,Пол тәкши әмәс иди.,Пол тейилғақ иди.
+441,942,effect,1,The father caught his son lying.,His son confessed the truth.,The father trusted his son.,Дадиси оғлини ялған айтқанини  тутти.,Оғли иқрар қилди.,Дадиси оғлиға ишинәтти.
+442,943,effect,2,The man's head throbbed with pain.,He took cough syrup.,He took aspirin.,Бу әрниң беши ағриди.,У йөтәл шәрбитини алди.,У аспиринни алди.
+443,944,cause,1,The train slowed down.,It was approaching the station.,It was running behind schedule.,Пойиз астилиди.,У бекәткә йеқинлишивататти.,У вақитниң кәйнидә йүгүрди.
+444,945,cause,2,The man went through therapy.,Mental illness ran in his family.,He was diagnosed with depression.,Бу әр давалашни баштин кәчүрди.,Роһий кесәл униң аилисидә бар иди.,Униңға хамушлуқ кесили дәп диагноз қоюлған иди.
+445,946,cause,2,The woman clutched her throat.,She swallowed her food.,She choked on her food.,Аял өзиниң кекирдәкни чиң тутти.,У йемәкликлирини ютувәтти.,У йемәкликлири билән боғуп қелинди.
+446,947,effect,1,The woman had a sore throat.,Her voice sounded raspy.,She spoke with an accent.,Бу аялниң кекирдәк ағриди.,Униң авази қарлыққан аңланди.,У тәләппузда сөзлиди.
+447,948,effect,1,The dog eyed the juicy steak on the table.,It drooled.,It laid down.,Ит үстәлдики ширнилик кавапни көзитип қойди.,Униң шөлгәйлири  ақти.,У ятти.
+448,949,effect,2,The woman's business succeeded.,She fired her employees.,She became wealthy.,Бу аялниң содиси мувәппәқийәт қазанди.,У хизмәтчилирини иштин бошатти.,У бай болуп кәтти.
+449,950,cause,1,The students exited the classroom.,The bell rang.,The teacher assigned homework.,Оқуғучилар дәрсханидин чиқти.,Қоңғурақ челинди.,Оқутқучи тапшуруқ тәқсимләп бәрди.
+450,951,effect,1,The woman claimed she saw a ghost.,Her acquaintances expressed skepticism.,Her acquaintances related to her.,Бу аял өзиниң әрваһни көргәнликини оттуриға қойди.,Униң тонушлири гуманини оттуриға қойди.,Униң достлири униң билән рази болған.
+451,952,cause,2,The man lost his hearing.,He nearly drowned in the ocean.,He was nearly killed in an explosion.,У киши аңлаш сезимини йоқатти.,У деңизға ғәрқ болуп кәткили тас қалди.,У партилашта қаза қилғили тасла қалди.
+452,953,effect,2,The child let go of the balloon string.,The balloon deflated.,The balloon rose into the air.,Бала шарниң лентисини қоюп бәрди.,Шардин барлиқ һава чиқип кәтти.,Шар һаваға көтүрүлди.
+453,954,cause,1,The man lost his ability to speak.,He had a stroke.,He took a deep breath.,У киши сөзләш иқтидарини йоқатти.,У сәктә болуп қалди.,У чоңқур нәпәс алди.
+454,955,cause,1,The woman tripped on the sidewalk.,There was a crack in the cement.,She heard her name being called.,Бу аял пиядиләр йолида путлишип кәтти.,Семонтта йериқ бар иди.,У исминиң чақирилғанлиқини аңлиди.
+455,956,effect,2,The man did a canon ball into the pool.,The lifeguard jumped in after him.,The man soaked the lifeguard.,Бу әр зәмбирәкни көлчәккә атти.,Қутқузуш хадими униң арқисидин сәкриди.,Бу әр қутқузуш хадимини чилап қойди.
+456,957,effect,1,I took antibiotics.,My infection cleared up.,My infection spread.,Мән антибиотик дориларни ичтим.,Мениң юқумлинишим тазиланди.,Мениң юқумлинишим тарқалди.
+457,958,effect,1,The traffic light turned yellow.,The driver pushed the brake.,The driver honked his horn.,Қатнаш чириғи сериқ рәңгә кирди.,Шопур тормузни бәсвәтти.,Шопур униң мүңгүзини чалди.
+458,959,cause,2,The plastic container melted.,I soaked the container in warm water.,I placed the container on the hot stove.,Суляв қача ерип кәтти.,Мән қачини илман суға чилап қойдум.,Қачини қизиқ очаққа қойдум.
+459,960,cause,1,The car got dented.,The driver hit a telephone pole.,The driver ran a red light.,Машина езилип кәтти.,Шопур телефон қутубиға соқулди.,Шопур қизил чирақни йүгүрди.
+460,961,effect,2,The boy studied all night.,He skipped the exam.,He passed the exam.,Бала кечичә оқуди.,У имтиһанға қатнашмиди.,У имтиһандин өтти.
+461,962,cause,1,The young boy clung to the ledge of the pool.,He feared learning to swim.,The lifeguard was on duty.,Яш бала көлчәкниң четигә чаплишип қалди.,У су үзүшни өгиништин қорқиду.,Қутқузуш хадими вәзипә иҗра қиливатқанда.
+462,963,effect,1,I put my hand to my chest.,I felt my heartbeat.,My heart rate sped up.,Мән қолумни көкрикимгә салдим.,Йүрикимниң соқушини һес қилдим.,Мениң йүрәк соқушим тезләшти.
+463,964,effect,2,The building adjacent to my office was under construction.,My office was crowded.,My office was noisy.,Мшханамға қошна бина селинивататти.,Ишханам адәм билән толуқ иди.,Ишханам шавқун-сүрәнгә толди.
+464,965,effect,1,The family wanted to get to know their new neighbors.,The family invited the neighbors over for dinner.,The family waved to the neighbors from their yard.,Бу аилә йеңи қошнилири билән тонушмақчи болған.,Аилә қошниларни тамаққа тәклип қилди.,Аилә қошнилириға һойлидин қол пулаңлатти.
+465,966,cause,1,Water splashed up from the pool.,The swimmer dove into the pool.,The swimmer floated in the pool.,Көлчәктин су чиқип кәтти.,Су үзүш көлчикигә шуңғуди.,Су үзүш көлчикидә үзди.
+466,967,effect,1,I bit into a slice of watermelon.,I accidentally swallowed a seed.,I accidentally chipped my tooth.,Мән бир парчә тавузни чишлидим.,Еһтиятсизлиқтин бир уруқни ютувәттим.,Еһтиятсизлиқтин чишимни чишлидим.
+467,968,cause,2,The boy tripped.,His jacket was unzipped.,His shoelaces were untied.,Бала тутлишип йиқилди.,Униң кичик чапини йешиветилди.,Униң аяғ боғқучилири үзүлмиди.
+468,969,cause,1,The woman put earplugs in.,She was distracted by noise.,She got her ears pierced.,Аял униң уйқу қулиқлирини салди.,Шавқун униң диққитини тартти.,У қулиқлирини тешти.
+469,970,cause,1,I refilled my water bottle.,I drank all the water in it.,I kept it in the fridge.,Мән су ботулкисини толдурдум.,Мән униңдики барлиқ суни ичтим.,Мән уни тоңлатқуда сақлидим.
+470,971,cause,1,The television show was censored.,It contained vulgar language.,It had a complicated plot.,Телевизийә программиси тәкшүрүлди.,Униңда сәт тил бар иди.,Униңда бир мурәккәп пилан бар.
+471,972,effect,1,The ship wrecked.,The crew drowned.,The crew encountered pirates.,Парахот вәйран болди.,Парахот хадимлири суға ғәрқ болди.,Хизмәтчиләр деңиз қарақчилириға йолуқти.
+472,973,effect,2,The boy felt stumped by the riddle.,He solved the riddle.,He requested a hint.,Бу бала тепишмақтин гаңгирап қалди.,У тепишмақни һәл қилди.,У ярдәм тәләп қилди.
+473,974,effect,2,The phone rang.,The man hung up the phone.,The man picked up the phone.,Телефон сайрап кәтти.,У киши телефонни есип қойди.,У киши телефонни алди.
+474,975,effect,2,The woman was staring at me.,I hugged her.,I felt uncomfortable.,У аял маңа тикилип туратти.,Мән уни қучақлидим.,Мән биарамлиқ һес қилдим.
+475,976,cause,2,The group left the museum.,They took pictures of the exhibits.,They viewed all the exhibits.,Гуруппа музейдин айрилди.,Улар көргәзмә буюмлирини сүрәткә тартти.,Улар барлиқ көргәзмә буюмлирини көрди.
+476,977,effect,2,The man started an argument with me.,My friend introduced me to the man.,My friend stood up for me.,У киши мән билән талаш-тартиш қилишқа башлиди.,Достум мени у кишигә тонуштурди.,Достум мән үчүн орнидин турди.
+477,978,effect,1,The tire on my bike was flat.,I pumped air into the tire.,I switched gears on the bike.,Велисипитимдики балон тәкши иди.,Мән балонға һава тарттим.,Велисипиттә чишлиқ чақ алмаштурдум.
+478,979,effect,2,The girl looked pale.,Her father read her a story.,Her father felt her forehead.,Қиз сус көрүнди.,Дадиси униңға бир һекайә оқуди.,Дадиси униң пешанисини һес қилди.
+479,980,effect,1,The pen ran out of ink.,I used a pencil.,I signed my name.,Қәләмдә сияһ түгәп кәтти.,Мән қәләм ишләттим.,Мән исмим билән имза қойдум.
+480,981,cause,1,The man was denied for a loan.,He was in debt.,He started a business.,Бу әр қәрз үчүн рәт қилинған.,У қәрзгә боғулған иди.,У игилик тиклиди.
+481,982,cause,1,The girl stayed home from school.,She had chicken pox.,She enjoyed learning math.,Қиз мәктәптин өйдә қалди.,Униң тоху пачиқи бар иди.,У математика өгинишни яхши көрәтти.
+482,983,effect,1,The trash bag was full.,I took it to the dumpster.,I dumped it down the sink.,Ўхләт сомкиси толған иди.,Мән уни әхләт сандуқиға елип бардим.,Мән уни әхләт сандуқиға ташливәттим.
+483,984,cause,2,I vacuumed the carpet.,My roommate spilled punch.,My dog shed hair.,Мән гиләмни вакуум қилдим.,Ятақдишим мушт төкти.,Мениң итум чач чүшүрди.
+484,985,effect,2,The man lost his temper.,He turned off his computer.,He threw a chair across the room.,У киши аччиқлинип кәтти.,У компютерини етивәтти.,У орундуқни өйниң сиртиға ташлиди.
+485,986,effect,1,The girl threw a twig into the campfire.,The twig burned.,The fire went out.,Қиз бир шахни отқа ташлиди.,Шах көйүп кәтти.,От өчүрүлди.
+486,987,cause,1,The man got out of the shower.,The hot water was gone.,He couldn't find a towel.,У киши мунчидин чиқти.,Қизиқ су йоқалди.,У лөңгини тапалмиди.
+487,988,effect,1,The parents wanted their children to go to college.,They set aside a savings fund for tuition.,They encouraged their children to play outside.,Ата-анилар балилириниң алий мәктәптә оқушини арзу қилатти.,Улар оқуш пулини теҗәп қалди.,Алар балилирини сиртта ойнашқа илһамландурди.
+488,989,effect,1,The man unlaced his shoes.,The shoes loosened.,The shoes became worn.,У киши аяғ кийимини бошитивәтти.,Аяғ кийими бошап кәтти.,Аяғ кийими конирап кәтти.
+489,990,effect,1,The man ate half of the entree.,He refrigerated the leftovers.,He saved the recipe.,У киши қорсиқиниң йеримини йәп кәтти.,У ешип қалған нәрсиләрни тоңлатти.,У ретсепни сақлиди.
+490,991,effect,1,My ankle was swollen.,I put ice on it.,I rubbed lotion on it.,Пут қолум ишшип кәтти.,Мән униңға муз қойдум.,мән униңға гирим буюмлирини сүрттим.
+491,992,effect,2,My office door was open.,I talked to my colleague at my desk.,I overheard the conversation in the hall.,Ишханамниң ишики очуқ иди.,Мән үстәлдики хизмәтдишим билән параңлаштим.,Мән залдики параңни аңлидим.
+492,993,effect,2,I had to wait in line.,I took a seat.,I skimmed a magazine.,Мән өчирәт сақлашқа мәҗбур болдум.,Мән бир орун алдим.,Мән журналдин варақлидим.
+493,994,effect,1,The man swatted at the fly.,The fly buzzed away.,The fly stayed still.,У киши чивинни өлтүрди.,Чивин учуп кәтти.,Чивин җайида қалди.
+494,995,cause,1,The man wrote a will.,He was dying.,He was a widower.,У киши вәсийәтнамә язди.,У өлүвататти.,У тул аял иди.
+495,996,effect,2,The runner sensed his competitor gaining on him.,He dropped out of the race.,He sped up his pace.,Йүгүргүчи риқабәтчиниң өзигә еришиватқанлиқини һес қилди.,У мусабиқидин чекинип чиқти.,У қәдимини тезләтти.
+496,997,effect,2,I thought carefully about the problem.,I asked for advice.,I came up with a solution.,Мән бу мәсилини әстайидиллиқ билән ойлидим.,Мән мәслиһәт соридим.,Мән бир һәл қилиш чарисини ойлап таптим.
+497,998,effect,1,The traveler walked on the shaky suspension bridge.,He felt terrified.,He felt ecstatic.,Саяһәтчи тәврәнмә асма көврүктә маңди.,У қорқунч һес қилди.,У хушал болуп кәтти.
+498,999,effect,2,The man anticipated the team's victory.,He met his friends to watch the game.,He made a bet with his friends.,Бу әр командиниң ғәлбисини алдин пәрәз қилди.,У достлири билән көрүшүп оюнни көрди.,У достлири билән до тикти.
+499,1000,effect,2,The boy couldn't fall asleep.,He set his alarm clock.,He counted sheep.,Бала ухлиялмиди.,У үстәл саәтни тәңшиди.,У қойларни саниди.
